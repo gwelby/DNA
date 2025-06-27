@@ -1,0 +1,31 @@
+{
+  "session_log": {
+    "session_id": "20250605_093337",
+    "start_time": "2025-06-05T09:33:52.855530",
+    "greg_age": 58,
+    "duration_minutes": 20,
+    "muse_connected": true,
+    "daily_guidance": {
+      "number": 63,
+      "name": "After Completion",
+      "frequency": 888.0,
+      "codon": "ATG",
+      "focus": "Complete DNA evolution cycle"
+    },
+    "phases": [],
+    "metrics": [],
+    "end_time": "2025-06-05T09:34:23.797999",
+    "total_readings": 0
+  },
+  "greg_profile": {
+    "age": 58,
+    "location": "Canada",
+    "baseline_meditation_coherence": 0.2,
+    "target_coherence": 0.95,
+    "canadian_environmental_advantage": 0.08,
+    "age_58_optimal_bonus": 0.12,
+    "phi_harmonic_alignment": 1.618033988749895,
+    "session_count": 0
+  },
+  "raw_eeg_data": []
+}

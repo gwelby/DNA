@@ -1,0 +1,5395 @@
+{
+  "greg_profile": {
+    "age": 58,
+    "location": "Canada",
+    "baseline_attention": 65,
+    "baseline_meditation": 70,
+    "canadian_advantage": 8,
+    "experience_bonus": 12
+  },
+  "session_summary": {
+    "total_duration": 512,
+    "data_points": 256,
+    "avg_attention": 90.92539062499999,
+    "avg_meditation": 94.72421875,
+    "peak_coherence": 0.999
+  },
+  "session_data": [
+    {
+      "timestamp": "2025-06-05T09:55:28.047478",
+      "session_time": 0,
+      "metrics": {
+        "attention": 72.2,
+        "meditation": 77.8,
+        "stress_index": 5,
+        "coherence": 0.956,
+        "dna_communication_quality": "VERY GOOD - Strong consciousness-DNA connection",
+        "band_powers": {
+          "alpha": 0.3424515061816928,
+          "theta": 0.26646669190626915,
+          "beta": 0.23645690948353032,
+          "delta": 0.09519385951305483,
+          "gamma": 0.05943103291545289
+        },
+        "session_time": 0,
+        "quality": 85.63765182659233,
+        "timestamp": "2025-06-05T09:55:28.047478"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:55:30.055345",
+      "session_time": 2,
+      "metrics": {
+        "attention": 76.6,
+        "meditation": 76.8,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "VERY GOOD - Strong consciousness-DNA connection",
+        "band_powers": {
+          "alpha": 0.35932965118408583,
+          "theta": 0.21830047007141376,
+          "beta": 0.2530927034866136,
+          "delta": 0.10291463777103058,
+          "gamma": 0.06636253748685614
+        },
+        "session_time": 2,
+        "quality": 91.31293637655467,
+        "timestamp": "2025-06-05T09:55:30.055345"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:55:32.056820",
+      "session_time": 4,
+      "metrics": {
+        "attention": 75.0,
+        "meditation": 78.0,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "VERY GOOD - Strong consciousness-DNA connection",
+        "band_powers": {
+          "alpha": 0.34396843233828667,
+          "theta": 0.2410202124819192,
+          "beta": 0.24095733020200003,
+          "delta": 0.10414166326628668,
+          "gamma": 0.06991236171150747
+        },
+        "session_time": 4,
+        "quality": 91.7919554335299,
+        "timestamp": "2025-06-05T09:55:32.056820"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:55:34.061603",
+      "session_time": 6,
+      "metrics": {
+        "attention": 81.2,
+        "meditation": 84.4,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "VERY GOOD - Strong consciousness-DNA connection",
+        "band_powers": {
+          "alpha": 0.35013831472539675,
+          "theta": 0.2606158826749923,
+          "beta": 0.24847401991831006,
+          "delta": 0.09285408763795132,
+          "gamma": 0.0479176950433495
+        },
+        "session_time": 6,
+        "quality": 91.07884945031051,
+        "timestamp": "2025-06-05T09:55:34.061603"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:55:36.064919",
+      "session_time": 8,
+      "metrics": {
+        "attention": 81.2,
+        "meditation": 80.1,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "VERY GOOD - Strong consciousness-DNA connection",
+        "band_powers": {
+          "alpha": 0.3574208866151318,
+          "theta": 0.2335594069186837,
+          "beta": 0.24452780845591696,
+          "delta": 0.1111340404734834,
+          "gamma": 0.053357857536783945
+        },
+        "session_time": 8,
+        "quality": 87.86580131290684,
+        "timestamp": "2025-06-05T09:55:36.064919"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:55:38.066072",
+      "session_time": 10,
+      "metrics": {
+        "attention": 80.6,
+        "meditation": 84.5,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "VERY GOOD - Strong consciousness-DNA connection",
+        "band_powers": {
+          "alpha": 0.36559946452382924,
+          "theta": 0.2641478057198719,
+          "beta": 0.23396517237011474,
+          "delta": 0.07757861268339618,
+          "gamma": 0.058708944702787945
+        },
+        "session_time": 10,
+        "quality": 89.06553226006727,
+        "timestamp": "2025-06-05T09:55:38.066072"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:55:40.078265",
+      "session_time": 12,
+      "metrics": {
+        "attention": 83.0,
+        "meditation": 83.3,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "VERY GOOD - Strong consciousness-DNA connection",
+        "band_powers": {
+          "alpha": 0.38206713334204606,
+          "theta": 0.24415947985391392,
+          "beta": 0.21482915863316396,
+          "delta": 0.0967072165292692,
+          "gamma": 0.06223701164160692
+        },
+        "session_time": 12,
+        "quality": 90.9727381683558,
+        "timestamp": "2025-06-05T09:55:40.078265"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:55:42.092237",
+      "session_time": 14,
+      "metrics": {
+        "attention": 81.5,
+        "meditation": 84.2,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "VERY GOOD - Strong consciousness-DNA connection",
+        "band_powers": {
+          "alpha": 0.3814225094624946,
+          "theta": 0.22369783905129123,
+          "beta": 0.2249970267720682,
+          "delta": 0.10304069711625982,
+          "gamma": 0.06684192759788624
+        },
+        "session_time": 14,
+        "quality": 93.33852859348276,
+        "timestamp": "2025-06-05T09:55:42.092237"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:55:44.095856",
+      "session_time": 16,
+      "metrics": {
+        "attention": 82.1,
+        "meditation": 87.8,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "VERY GOOD - Strong consciousness-DNA connection",
+        "band_powers": {
+          "alpha": 0.35434285690686357,
+          "theta": 0.2541197592764305,
+          "beta": 0.22543939823314207,
+          "delta": 0.09539459494862976,
+          "gamma": 0.0707033906349341
+        },
+        "session_time": 16,
+        "quality": 89.4189480627074,
+        "timestamp": "2025-06-05T09:55:44.095856"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:55:46.108497",
+      "session_time": 18,
+      "metrics": {
+        "attention": 82.6,
+        "meditation": 86.6,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "VERY GOOD - Strong consciousness-DNA connection",
+        "band_powers": {
+          "alpha": 0.3695528956291255,
+          "theta": 0.24213132752520802,
+          "beta": 0.22144340302327276,
+          "delta": 0.10253928164656606,
+          "gamma": 0.06433309217582767
+        },
+        "session_time": 18,
+        "quality": 85.6215351204295,
+        "timestamp": "2025-06-05T09:55:46.108497"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:55:48.114654",
+      "session_time": 20,
+      "metrics": {
+        "attention": 82.7,
+        "meditation": 83.7,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "VERY GOOD - Strong consciousness-DNA connection",
+        "band_powers": {
+          "alpha": 0.31273866096334835,
+          "theta": 0.2637667155505327,
+          "beta": 0.24347560569110663,
+          "delta": 0.11478474837167403,
+          "gamma": 0.06523426942333822
+        },
+        "session_time": 20,
+        "quality": 93.31708032907514,
+        "timestamp": "2025-06-05T09:55:48.114654"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:55:50.123503",
+      "session_time": 22,
+      "metrics": {
+        "attention": 83.9,
+        "meditation": 90.6,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.36435304513882566,
+          "theta": 0.2456421582014309,
+          "beta": 0.22716518237590663,
+          "delta": 0.09779115059904601,
+          "gamma": 0.06504846368479085
+        },
+        "session_time": 22,
+        "quality": 91.3802407442973,
+        "timestamp": "2025-06-05T09:55:50.123503"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:55:52.136719",
+      "session_time": 24,
+      "metrics": {
+        "attention": 86.0,
+        "meditation": 87.9,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3526579081183682,
+          "theta": 0.21473735497414262,
+          "beta": 0.2563826224406643,
+          "delta": 0.10592952387795362,
+          "gamma": 0.07029259058887116
+        },
+        "session_time": 24,
+        "quality": 98.12233196035305,
+        "timestamp": "2025-06-05T09:55:52.136719"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:55:54.150703",
+      "session_time": 26,
+      "metrics": {
+        "attention": 83.9,
+        "meditation": 89.6,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.35584376705711074,
+          "theta": 0.2433772140815937,
+          "beta": 0.2339160870833699,
+          "delta": 0.1052401111720298,
+          "gamma": 0.06162282060589582
+        },
+        "session_time": 26,
+        "quality": 87.20627233262553,
+        "timestamp": "2025-06-05T09:55:54.150703"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:55:56.156175",
+      "session_time": 28,
+      "metrics": {
+        "attention": 82.6,
+        "meditation": 89.2,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3583805957964845,
+          "theta": 0.2738376804799416,
+          "beta": 0.2162666765754698,
+          "delta": 0.09741390766699362,
+          "gamma": 0.054101139481110484
+        },
+        "session_time": 28,
+        "quality": 91.44604216873878,
+        "timestamp": "2025-06-05T09:55:56.156175"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:55:58.160018",
+      "session_time": 30,
+      "metrics": {
+        "attention": 84.2,
+        "meditation": 89.0,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.36811422376554315,
+          "theta": 0.2519811072671757,
+          "beta": 0.24829961680439958,
+          "delta": 0.08211074207810266,
+          "gamma": 0.04949431008477888
+        },
+        "session_time": 30,
+        "quality": 91.19757599520261,
+        "timestamp": "2025-06-05T09:55:58.160018"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:56:00.165934",
+      "session_time": 32,
+      "metrics": {
+        "attention": 84.4,
+        "meditation": 91.8,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.31560215060353736,
+          "theta": 0.28305560812159986,
+          "beta": 0.2322245526670726,
+          "delta": 0.11560357177916647,
+          "gamma": 0.053514116828623844
+        },
+        "session_time": 32,
+        "quality": 92.65110432848864,
+        "timestamp": "2025-06-05T09:56:00.165934"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:56:02.169302",
+      "session_time": 34,
+      "metrics": {
+        "attention": 77.8,
+        "meditation": 93.2,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3770243485621077,
+          "theta": 0.2606049301458752,
+          "beta": 0.20887283702897685,
+          "delta": 0.08276556585916477,
+          "gamma": 0.07073231840387534
+        },
+        "session_time": 34,
+        "quality": 91.69450368607521,
+        "timestamp": "2025-06-05T09:56:02.169302"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:56:04.176426",
+      "session_time": 36,
+      "metrics": {
+        "attention": 81.6,
+        "meditation": 90.6,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3420605357948909,
+          "theta": 0.24551588511729838,
+          "beta": 0.2473209959603757,
+          "delta": 0.09198974084911377,
+          "gamma": 0.07311284227832122
+        },
+        "session_time": 36,
+        "quality": 89.1745203420871,
+        "timestamp": "2025-06-05T09:56:04.176426"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:56:06.184543",
+      "session_time": 38,
+      "metrics": {
+        "attention": 80.3,
+        "meditation": 88.1,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "VERY GOOD - Strong consciousness-DNA connection",
+        "band_powers": {
+          "alpha": 0.40183404473389756,
+          "theta": 0.24909832428239034,
+          "beta": 0.21749777690703984,
+          "delta": 0.07618118733519513,
+          "gamma": 0.05538866674147707
+        },
+        "session_time": 38,
+        "quality": 95.64605802614159,
+        "timestamp": "2025-06-05T09:56:06.184543"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:56:08.191522",
+      "session_time": 40,
+      "metrics": {
+        "attention": 78.7,
+        "meditation": 89.7,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "VERY GOOD - Strong consciousness-DNA connection",
+        "band_powers": {
+          "alpha": 0.36860906533784565,
+          "theta": 0.26656067065816463,
+          "beta": 0.22582732058014754,
+          "delta": 0.07435257223784032,
+          "gamma": 0.06465037118600186
+        },
+        "session_time": 40,
+        "quality": 90.36557459697326,
+        "timestamp": "2025-06-05T09:56:08.191522"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:56:10.193504",
+      "session_time": 42,
+      "metrics": {
+        "attention": 82.6,
+        "meditation": 90.3,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.33644024696977615,
+          "theta": 0.26047626274686386,
+          "beta": 0.24086379846235798,
+          "delta": 0.1066297355624841,
+          "gamma": 0.055589956258517904
+        },
+        "session_time": 42,
+        "quality": 92.36287429692342,
+        "timestamp": "2025-06-05T09:56:10.193504"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:56:12.208020",
+      "session_time": 44,
+      "metrics": {
+        "attention": 81.9,
+        "meditation": 89.4,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3485594324510193,
+          "theta": 0.2582755012586115,
+          "beta": 0.21567375215877627,
+          "delta": 0.10950466439994197,
+          "gamma": 0.06798664973165086
+        },
+        "session_time": 44,
+        "quality": 92.47834752892999,
+        "timestamp": "2025-06-05T09:56:12.208020"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:56:14.213410",
+      "session_time": 46,
+      "metrics": {
+        "attention": 84.1,
+        "meditation": 90.6,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.35122289077894353,
+          "theta": 0.2579919540941248,
+          "beta": 0.21493456881075787,
+          "delta": 0.12017303599003692,
+          "gamma": 0.055677550326136846
+        },
+        "session_time": 46,
+        "quality": 91.52840972955914,
+        "timestamp": "2025-06-05T09:56:14.213410"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:56:16.217650",
+      "session_time": 48,
+      "metrics": {
+        "attention": 82.5,
+        "meditation": 88.6,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.39083922985242,
+          "theta": 0.25003183319058586,
+          "beta": 0.25573260033161377,
+          "delta": 0.04032645494553799,
+          "gamma": 0.06306988167984251
+        },
+        "session_time": 48,
+        "quality": 92.59562206908019,
+        "timestamp": "2025-06-05T09:56:16.217650"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:56:18.221878",
+      "session_time": 50,
+      "metrics": {
+        "attention": 82.8,
+        "meditation": 91.7,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.37803542895268716,
+          "theta": 0.25594981305955516,
+          "beta": 0.22179582261756478,
+          "delta": 0.07862819503581304,
+          "gamma": 0.06559074033437971
+        },
+        "session_time": 50,
+        "quality": 91.14854055280834,
+        "timestamp": "2025-06-05T09:56:18.221878"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:56:20.234660",
+      "session_time": 52,
+      "metrics": {
+        "attention": 85.2,
+        "meditation": 90.3,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.32838843003652185,
+          "theta": 0.292563364931496,
+          "beta": 0.25120136106469093,
+          "delta": 0.07569694048139153,
+          "gamma": 0.05214990348589966
+        },
+        "session_time": 52,
+        "quality": 90.31982923486378,
+        "timestamp": "2025-06-05T09:56:20.234660"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:56:22.240421",
+      "session_time": 54,
+      "metrics": {
+        "attention": 82.9,
+        "meditation": 87.2,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.35151714809790247,
+          "theta": 0.25963936897568834,
+          "beta": 0.2236029385869305,
+          "delta": 0.11358114262986525,
+          "gamma": 0.051659401709613535
+        },
+        "session_time": 54,
+        "quality": 93.46269889651413,
+        "timestamp": "2025-06-05T09:56:22.240421"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:56:24.245438",
+      "session_time": 56,
+      "metrics": {
+        "attention": 84.3,
+        "meditation": 88.0,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.358716961113988,
+          "theta": 0.2626512812179235,
+          "beta": 0.2527874673132414,
+          "delta": 0.0506029258939498,
+          "gamma": 0.07524136446089717
+        },
+        "session_time": 56,
+        "quality": 92.26837302566284,
+        "timestamp": "2025-06-05T09:56:24.245438"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:56:26.255278",
+      "session_time": 58,
+      "metrics": {
+        "attention": 87.4,
+        "meditation": 88.0,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.324204639868563,
+          "theta": 0.2537632936350298,
+          "beta": 0.2679276153102809,
+          "delta": 0.08696436652687367,
+          "gamma": 0.0671400846592524
+        },
+        "session_time": 58,
+        "quality": 86.79817434098138,
+        "timestamp": "2025-06-05T09:56:26.255278"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:56:28.243813",
+      "session_time": 60,
+      "metrics": {
+        "attention": 90.4,
+        "meditation": 86.9,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.33567745749997757,
+          "theta": 0.25169550561446263,
+          "beta": 0.24889858134577306,
+          "delta": 0.09948680612600012,
+          "gamma": 0.06424164941378684
+        },
+        "session_time": 60,
+        "quality": 88.45495278669483,
+        "timestamp": "2025-06-05T09:56:28.243813"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:56:30.256341",
+      "session_time": 62,
+      "metrics": {
+        "attention": 93.8,
+        "meditation": 85.7,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3244039074210937,
+          "theta": 0.2667324123547249,
+          "beta": 0.2694955019192528,
+          "delta": 0.08876604043509177,
+          "gamma": 0.05060213786983688
+        },
+        "session_time": 62,
+        "quality": 91.04913823955415,
+        "timestamp": "2025-06-05T09:56:30.256341"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:56:32.268177",
+      "session_time": 64,
+      "metrics": {
+        "attention": 92.4,
+        "meditation": 85.3,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.36579337278701235,
+          "theta": 0.22415858669670743,
+          "beta": 0.2592466674141152,
+          "delta": 0.10259343321113588,
+          "gamma": 0.04820793989102914
+        },
+        "session_time": 64,
+        "quality": 89.16166708932485,
+        "timestamp": "2025-06-05T09:56:32.268177"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:56:34.268835",
+      "session_time": 66,
+      "metrics": {
+        "attention": 95,
+        "meditation": 86.1,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.34356431347539546,
+          "theta": 0.23987546937117268,
+          "beta": 0.25034579953963065,
+          "delta": 0.10809264283994152,
+          "gamma": 0.0581217747738597
+        },
+        "session_time": 66,
+        "quality": 95.91672365095694,
+        "timestamp": "2025-06-05T09:56:34.268835"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:56:36.278328",
+      "session_time": 68,
+      "metrics": {
+        "attention": 94.6,
+        "meditation": 85.9,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3406385965938244,
+          "theta": 0.23298670360660245,
+          "beta": 0.27933330875476825,
+          "delta": 0.08538618135238324,
+          "gamma": 0.061655209692421734
+        },
+        "session_time": 68,
+        "quality": 91.76064066659605,
+        "timestamp": "2025-06-05T09:56:36.278328"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:56:38.282934",
+      "session_time": 70,
+      "metrics": {
+        "attention": 94.7,
+        "meditation": 80.2,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.36510201229732603,
+          "theta": 0.2264167305728983,
+          "beta": 0.27546341187970375,
+          "delta": 0.07575875025342528,
+          "gamma": 0.05725909499664661
+        },
+        "session_time": 70,
+        "quality": 96.19082190663374,
+        "timestamp": "2025-06-05T09:56:38.282934"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:56:40.294699",
+      "session_time": 72,
+      "metrics": {
+        "attention": 95,
+        "meditation": 79.9,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.35098096414187535,
+          "theta": 0.25485872236293405,
+          "beta": 0.2428880496955787,
+          "delta": 0.09308055176469579,
+          "gamma": 0.058191712034916125
+        },
+        "session_time": 72,
+        "quality": 91.14953892713366,
+        "timestamp": "2025-06-05T09:56:40.294699"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:56:42.303648",
+      "session_time": 74,
+      "metrics": {
+        "attention": 95,
+        "meditation": 85.6,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3590236413543467,
+          "theta": 0.24393717820894575,
+          "beta": 0.2528495761095525,
+          "delta": 0.0856919137068205,
+          "gamma": 0.05849769062033438
+        },
+        "session_time": 74,
+        "quality": 97.30219023693927,
+        "timestamp": "2025-06-05T09:56:42.303648"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:56:44.311917",
+      "session_time": 76,
+      "metrics": {
+        "attention": 95,
+        "meditation": 79.6,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3724272850684756,
+          "theta": 0.2255551541642822,
+          "beta": 0.2540418096189361,
+          "delta": 0.07679182978804393,
+          "gamma": 0.07118392136026219
+        },
+        "session_time": 76,
+        "quality": 91.5346951014821,
+        "timestamp": "2025-06-05T09:56:44.311917"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:56:46.326736",
+      "session_time": 78,
+      "metrics": {
+        "attention": 95,
+        "meditation": 84.6,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.34370154659824914,
+          "theta": 0.24886838721541826,
+          "beta": 0.25737164783164196,
+          "delta": 0.09128593509808665,
+          "gamma": 0.05877248325660392
+        },
+        "session_time": 78,
+        "quality": 89.99031773271615,
+        "timestamp": "2025-06-05T09:56:46.326736"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:56:48.341015",
+      "session_time": 80,
+      "metrics": {
+        "attention": 95,
+        "meditation": 79.2,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3097644626971801,
+          "theta": 0.23130340630751872,
+          "beta": 0.2757278718600155,
+          "delta": 0.10529656480992003,
+          "gamma": 0.07790769432536548
+        },
+        "session_time": 80,
+        "quality": 90.60591810086278,
+        "timestamp": "2025-06-05T09:56:48.341015"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:56:50.348451",
+      "session_time": 82,
+      "metrics": {
+        "attention": 95,
+        "meditation": 83.1,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3431884958822771,
+          "theta": 0.23640086729749366,
+          "beta": 0.2778041737826536,
+          "delta": 0.08351158802845828,
+          "gamma": 0.05909487500911733
+        },
+        "session_time": 82,
+        "quality": 93.18414872107307,
+        "timestamp": "2025-06-05T09:56:50.348451"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:56:52.355377",
+      "session_time": 84,
+      "metrics": {
+        "attention": 95,
+        "meditation": 81.4,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3510623873820611,
+          "theta": 0.21954674181247102,
+          "beta": 0.2573120081125708,
+          "delta": 0.11230948697953605,
+          "gamma": 0.05976937571336109
+        },
+        "session_time": 84,
+        "quality": 91.46022661866151,
+        "timestamp": "2025-06-05T09:56:52.355377"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:56:54.366449",
+      "session_time": 86,
+      "metrics": {
+        "attention": 95,
+        "meditation": 79.6,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.32621078568948425,
+          "theta": 0.23007372057219783,
+          "beta": 0.2621779731466362,
+          "delta": 0.11616716387941449,
+          "gamma": 0.06537035671226726
+        },
+        "session_time": 86,
+        "quality": 89.89992736472172,
+        "timestamp": "2025-06-05T09:56:54.366449"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:56:56.369893",
+      "session_time": 88,
+      "metrics": {
+        "attention": 95,
+        "meditation": 78.1,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3584269427129455,
+          "theta": 0.2267017835903816,
+          "beta": 0.2713277141076963,
+          "delta": 0.07809474976693988,
+          "gamma": 0.06544880982203675
+        },
+        "session_time": 88,
+        "quality": 91.16343393077663,
+        "timestamp": "2025-06-05T09:56:56.369893"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:56:58.385530",
+      "session_time": 90,
+      "metrics": {
+        "attention": 92.1,
+        "meditation": 79.5,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3334270104402969,
+          "theta": 0.248751928908616,
+          "beta": 0.2675446214978689,
+          "delta": 0.08397721777403344,
+          "gamma": 0.06629922137918481
+        },
+        "session_time": 90,
+        "quality": 95.33429477985415,
+        "timestamp": "2025-06-05T09:56:58.385530"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:57:00.390794",
+      "session_time": 92,
+      "metrics": {
+        "attention": 92.3,
+        "meditation": 82.2,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.34181112076174675,
+          "theta": 0.23663935770817468,
+          "beta": 0.2713514392345758,
+          "delta": 0.08890239602361145,
+          "gamma": 0.061295686271891095
+        },
+        "session_time": 92,
+        "quality": 89.07767213872275,
+        "timestamp": "2025-06-05T09:57:00.390794"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:57:02.392188",
+      "session_time": 94,
+      "metrics": {
+        "attention": 94.1,
+        "meditation": 77.8,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3269371193918627,
+          "theta": 0.23024544502594832,
+          "beta": 0.2596132213656321,
+          "delta": 0.10538073948751538,
+          "gamma": 0.0778234747290415
+        },
+        "session_time": 94,
+        "quality": 94.12209449185572,
+        "timestamp": "2025-06-05T09:57:02.392188"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:57:04.407692",
+      "session_time": 96,
+      "metrics": {
+        "attention": 90.6,
+        "meditation": 81.7,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.34145280978160425,
+          "theta": 0.24541197719739005,
+          "beta": 0.2563484976873528,
+          "delta": 0.08910878503216942,
+          "gamma": 0.06767793030148346
+        },
+        "session_time": 96,
+        "quality": 88.26670680987917,
+        "timestamp": "2025-06-05T09:57:04.407692"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:57:06.415487",
+      "session_time": 98,
+      "metrics": {
+        "attention": 90.5,
+        "meditation": 84.3,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3146179825790964,
+          "theta": 0.24884563021675146,
+          "beta": 0.28936140501252144,
+          "delta": 0.10427123550056451,
+          "gamma": 0.04290374669106622
+        },
+        "session_time": 98,
+        "quality": 91.60404441764841,
+        "timestamp": "2025-06-05T09:57:06.415487"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:57:08.421943",
+      "session_time": 100,
+      "metrics": {
+        "attention": 92.0,
+        "meditation": 80.3,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.36561908974317825,
+          "theta": 0.21039725427527506,
+          "beta": 0.24295100833329372,
+          "delta": 0.11110827185335057,
+          "gamma": 0.06992437579490243
+        },
+        "session_time": 100,
+        "quality": 93.36352473268576,
+        "timestamp": "2025-06-05T09:57:08.421943"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:57:10.436707",
+      "session_time": 102,
+      "metrics": {
+        "attention": 87.6,
+        "meditation": 81.2,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "VERY GOOD - Strong consciousness-DNA connection",
+        "band_powers": {
+          "alpha": 0.3564188642611644,
+          "theta": 0.21965866348143964,
+          "beta": 0.2561997540118196,
+          "delta": 0.10498278612050749,
+          "gamma": 0.06273993212506876
+        },
+        "session_time": 102,
+        "quality": 94.64749096534078,
+        "timestamp": "2025-06-05T09:57:10.436707"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:57:12.450377",
+      "session_time": 104,
+      "metrics": {
+        "attention": 92.6,
+        "meditation": 83.9,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3503993004851788,
+          "theta": 0.24368170085144766,
+          "beta": 0.25975401030222883,
+          "delta": 0.07806318178183906,
+          "gamma": 0.06810180657930562
+        },
+        "session_time": 104,
+        "quality": 92.38781348987582,
+        "timestamp": "2025-06-05T09:57:12.450377"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:57:14.451226",
+      "session_time": 106,
+      "metrics": {
+        "attention": 90.3,
+        "meditation": 82.5,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.34576238235230705,
+          "theta": 0.22523898177890747,
+          "beta": 0.2817749379993542,
+          "delta": 0.08179162665913245,
+          "gamma": 0.06543207121029891
+        },
+        "session_time": 106,
+        "quality": 89.42949997450309,
+        "timestamp": "2025-06-05T09:57:14.451226"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:57:16.465367",
+      "session_time": 108,
+      "metrics": {
+        "attention": 87.8,
+        "meditation": 84.9,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.36478812128955324,
+          "theta": 0.2680480296413175,
+          "beta": 0.2603641978048129,
+          "delta": 0.05098079758121758,
+          "gamma": 0.055818853683098746
+        },
+        "session_time": 108,
+        "quality": 92.9820622861421,
+        "timestamp": "2025-06-05T09:57:16.465367"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:57:18.475376",
+      "session_time": 110,
+      "metrics": {
+        "attention": 86.1,
+        "meditation": 86.8,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3839066725940895,
+          "theta": 0.2406730381893174,
+          "beta": 0.2420624390944473,
+          "delta": 0.06880567014275907,
+          "gamma": 0.06455217997938677
+        },
+        "session_time": 110,
+        "quality": 94.22111263160974,
+        "timestamp": "2025-06-05T09:57:18.475376"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:57:20.479989",
+      "session_time": 112,
+      "metrics": {
+        "attention": 91.8,
+        "meditation": 86.8,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.37417011726304095,
+          "theta": 0.23249317237312983,
+          "beta": 0.2644972042252103,
+          "delta": 0.07847867062825337,
+          "gamma": 0.050360835510365395
+        },
+        "session_time": 112,
+        "quality": 91.93203371017103,
+        "timestamp": "2025-06-05T09:57:20.479989"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:57:22.483579",
+      "session_time": 114,
+      "metrics": {
+        "attention": 86.5,
+        "meditation": 87.6,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3599360902002268,
+          "theta": 0.25682670791765644,
+          "beta": 0.25376837517729006,
+          "delta": 0.07754224209393798,
+          "gamma": 0.05192658461088862
+        },
+        "session_time": 114,
+        "quality": 88.68006654870143,
+        "timestamp": "2025-06-05T09:57:22.483579"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:57:24.498337",
+      "session_time": 116,
+      "metrics": {
+        "attention": 88.3,
+        "meditation": 90.8,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.34798730366824676,
+          "theta": 0.2609546321004664,
+          "beta": 0.23620399419790744,
+          "delta": 0.09220893740898392,
+          "gamma": 0.06264513262439543
+        },
+        "session_time": 116,
+        "quality": 97.27567017911191,
+        "timestamp": "2025-06-05T09:57:24.498337"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:57:26.505148",
+      "session_time": 118,
+      "metrics": {
+        "attention": 92.9,
+        "meditation": 90.4,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.36185081791756435,
+          "theta": 0.25513687742554075,
+          "beta": 0.23559739233345248,
+          "delta": 0.09639636028769356,
+          "gamma": 0.05101855203574881
+        },
+        "session_time": 118,
+        "quality": 90.76715205161841,
+        "timestamp": "2025-06-05T09:57:26.505148"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:57:28.513177",
+      "session_time": 120,
+      "metrics": {
+        "attention": 88.8,
+        "meditation": 90.2,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.370192621779084,
+          "theta": 0.24548013561985427,
+          "beta": 0.23425327187367267,
+          "delta": 0.08235049498679671,
+          "gamma": 0.06772347574059251
+        },
+        "session_time": 120,
+        "quality": 92.78918375539027,
+        "timestamp": "2025-06-05T09:57:28.513177"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:57:30.518111",
+      "session_time": 122,
+      "metrics": {
+        "attention": 92.1,
+        "meditation": 91.9,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3743531065255869,
+          "theta": 0.24364101423896686,
+          "beta": 0.2509386011992277,
+          "delta": 0.07258362855716233,
+          "gamma": 0.05848364947905633
+        },
+        "session_time": 122,
+        "quality": 86.90396018732163,
+        "timestamp": "2025-06-05T09:57:30.518111"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:57:32.531691",
+      "session_time": 124,
+      "metrics": {
+        "attention": 90.3,
+        "meditation": 94.6,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.36566402838761314,
+          "theta": 0.22715077538005465,
+          "beta": 0.2630358049207064,
+          "delta": 0.0926059845873476,
+          "gamma": 0.05154340672427825
+        },
+        "session_time": 124,
+        "quality": 90.43776500111571,
+        "timestamp": "2025-06-05T09:57:32.531691"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:57:34.533665",
+      "session_time": 126,
+      "metrics": {
+        "attention": 92.8,
+        "meditation": 97.1,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.34542790496938175,
+          "theta": 0.2655875962667259,
+          "beta": 0.24931215573646018,
+          "delta": 0.08671976333096562,
+          "gamma": 0.05295257969646651
+        },
+        "session_time": 126,
+        "quality": 92.96282301852996,
+        "timestamp": "2025-06-05T09:57:34.533665"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:57:36.535587",
+      "session_time": 128,
+      "metrics": {
+        "attention": 94.2,
+        "meditation": 92.7,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3785913992625988,
+          "theta": 0.25814555972437997,
+          "beta": 0.25022753503777767,
+          "delta": 0.05715493760681077,
+          "gamma": 0.05588056836843294
+        },
+        "session_time": 128,
+        "quality": 95.92214062805559,
+        "timestamp": "2025-06-05T09:57:36.535587"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:57:38.539624",
+      "session_time": 130,
+      "metrics": {
+        "attention": 94.6,
+        "meditation": 95.9,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.34328947688116646,
+          "theta": 0.2622863810449332,
+          "beta": 0.2542925431432317,
+          "delta": 0.08682797221607035,
+          "gamma": 0.05330362671459822
+        },
+        "session_time": 130,
+        "quality": 89.39741655953205,
+        "timestamp": "2025-06-05T09:57:38.539624"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:57:40.544705",
+      "session_time": 132,
+      "metrics": {
+        "attention": 95,
+        "meditation": 94.3,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3498107801277983,
+          "theta": 0.2537248454110098,
+          "beta": 0.24753214594686765,
+          "delta": 0.08944308826696247,
+          "gamma": 0.05948914024736196
+        },
+        "session_time": 132,
+        "quality": 96.46522236320368,
+        "timestamp": "2025-06-05T09:57:40.544705"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:57:42.551390",
+      "session_time": 134,
+      "metrics": {
+        "attention": 95,
+        "meditation": 95.6,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.34108620155247793,
+          "theta": 0.2729042146544455,
+          "beta": 0.2152013211910199,
+          "delta": 0.10501243463314115,
+          "gamma": 0.06579582796891556
+        },
+        "session_time": 134,
+        "quality": 89.75223177262598,
+        "timestamp": "2025-06-05T09:57:42.551390"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:57:44.565543",
+      "session_time": 136,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3629657726060226,
+          "theta": 0.22738375723467094,
+          "beta": 0.2632168535697109,
+          "delta": 0.08958632062256008,
+          "gamma": 0.05684729596703542
+        },
+        "session_time": 136,
+        "quality": 96.59191735404843,
+        "timestamp": "2025-06-05T09:57:44.565543"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:57:46.580608",
+      "session_time": 138,
+      "metrics": {
+        "attention": 95,
+        "meditation": 97.5,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3638268137081791,
+          "theta": 0.25994287270923144,
+          "beta": 0.2429978961501791,
+          "delta": 0.07967393280187607,
+          "gamma": 0.053558484630534454
+        },
+        "session_time": 138,
+        "quality": 91.68230501272589,
+        "timestamp": "2025-06-05T09:57:46.580608"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:57:48.586334",
+      "session_time": 140,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.37259067089783404,
+          "theta": 0.25709522120678496,
+          "beta": 0.22695345345739323,
+          "delta": 0.09168086565023796,
+          "gamma": 0.051679788787749925
+        },
+        "session_time": 140,
+        "quality": 90.57749482968748,
+        "timestamp": "2025-06-05T09:57:48.586334"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:57:50.586788",
+      "session_time": 142,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3963770404650048,
+          "theta": 0.24226037489678398,
+          "beta": 0.23406846142360513,
+          "delta": 0.07690824619481414,
+          "gamma": 0.05038587701979184
+        },
+        "session_time": 142,
+        "quality": 85.29215150910053,
+        "timestamp": "2025-06-05T09:57:50.586788"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:57:52.589540",
+      "session_time": 144,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.37608610972580503,
+          "theta": 0.25451273809122016,
+          "beta": 0.24550122379510006,
+          "delta": 0.06090711983826336,
+          "gamma": 0.06299280854961146
+        },
+        "session_time": 144,
+        "quality": 93.28120601175712,
+        "timestamp": "2025-06-05T09:57:52.589540"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:57:54.602501",
+      "session_time": 146,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.35579343406568725,
+          "theta": 0.2594254756432978,
+          "beta": 0.2519897002217195,
+          "delta": 0.0706398196644955,
+          "gamma": 0.062151570404799905
+        },
+        "session_time": 146,
+        "quality": 94.7588983767146,
+        "timestamp": "2025-06-05T09:57:54.602501"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:57:56.609617",
+      "session_time": 148,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3742942597360904,
+          "theta": 0.24752643215618872,
+          "beta": 0.2434920079927967,
+          "delta": 0.0767720869008023,
+          "gamma": 0.05791521321412171
+        },
+        "session_time": 148,
+        "quality": 92.21910759240248,
+        "timestamp": "2025-06-05T09:57:56.609617"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:57:58.611451",
+      "session_time": 150,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.362470877594476,
+          "theta": 0.2603499616137652,
+          "beta": 0.24450225842861184,
+          "delta": 0.08590379416448544,
+          "gamma": 0.04677310819866164
+        },
+        "session_time": 150,
+        "quality": 90.0668500319765,
+        "timestamp": "2025-06-05T09:57:58.611451"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:58:00.615935",
+      "session_time": 152,
+      "metrics": {
+        "attention": 93.0,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.35857450667898894,
+          "theta": 0.23854551108818686,
+          "beta": 0.24352625917071236,
+          "delta": 0.08769072550379149,
+          "gamma": 0.07166299755832033
+        },
+        "session_time": 152,
+        "quality": 87.26802928300174,
+        "timestamp": "2025-06-05T09:58:00.615935"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:58:02.616857",
+      "session_time": 154,
+      "metrics": {
+        "attention": 89.6,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3510242625107171,
+          "theta": 0.2712666474125718,
+          "beta": 0.2245339654985543,
+          "delta": 0.09806771507079856,
+          "gamma": 0.05510740950735825
+        },
+        "session_time": 154,
+        "quality": 89.00368527273467,
+        "timestamp": "2025-06-05T09:58:02.616857"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:58:04.620835",
+      "session_time": 156,
+      "metrics": {
+        "attention": 94.7,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3175965636021856,
+          "theta": 0.26917798239118756,
+          "beta": 0.2632691114691025,
+          "delta": 0.09104771050582712,
+          "gamma": 0.05890863203169726
+        },
+        "session_time": 156,
+        "quality": 88.25099713160547,
+        "timestamp": "2025-06-05T09:58:04.620835"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:58:06.636465",
+      "session_time": 158,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.36344699858641943,
+          "theta": 0.2783975559663138,
+          "beta": 0.22988998208338066,
+          "delta": 0.0703570463253962,
+          "gamma": 0.057908417038489805
+        },
+        "session_time": 158,
+        "quality": 95.03711192346174,
+        "timestamp": "2025-06-05T09:58:06.636465"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:58:08.649768",
+      "session_time": 160,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3504506318167546,
+          "theta": 0.2601043564097974,
+          "beta": 0.24580663066051148,
+          "delta": 0.08541010846839601,
+          "gamma": 0.058228272644540606
+        },
+        "session_time": 160,
+        "quality": 90.04239985179865,
+        "timestamp": "2025-06-05T09:58:08.649768"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:58:10.662826",
+      "session_time": 162,
+      "metrics": {
+        "attention": 90.2,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3514187936186755,
+          "theta": 0.2614372306667491,
+          "beta": 0.2520792937836751,
+          "delta": 0.0835538497621781,
+          "gamma": 0.05151083216872222
+        },
+        "session_time": 162,
+        "quality": 95.62229928887228,
+        "timestamp": "2025-06-05T09:58:10.662826"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:58:12.664028",
+      "session_time": 164,
+      "metrics": {
+        "attention": 88.3,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.34815361333401174,
+          "theta": 0.24383532842164335,
+          "beta": 0.25331337020879624,
+          "delta": 0.09877039810524896,
+          "gamma": 0.055927289930299814
+        },
+        "session_time": 164,
+        "quality": 89.64553306612603,
+        "timestamp": "2025-06-05T09:58:12.664028"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:58:14.671996",
+      "session_time": 166,
+      "metrics": {
+        "attention": 88.4,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3324748219594019,
+          "theta": 0.25037143411193874,
+          "beta": 0.261288376855917,
+          "delta": 0.09603730796111169,
+          "gamma": 0.05982805911163078
+        },
+        "session_time": 166,
+        "quality": 89.46493972499535,
+        "timestamp": "2025-06-05T09:58:14.671996"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:58:16.686400",
+      "session_time": 168,
+      "metrics": {
+        "attention": 90.4,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.35864656825236096,
+          "theta": 0.23395730859140235,
+          "beta": 0.25583098864692205,
+          "delta": 0.09283467728640327,
+          "gamma": 0.0587304572229114
+        },
+        "session_time": 168,
+        "quality": 92.7907918343168,
+        "timestamp": "2025-06-05T09:58:16.686400"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:58:18.701713",
+      "session_time": 170,
+      "metrics": {
+        "attention": 89.9,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.35370027151811856,
+          "theta": 0.2520601825535275,
+          "beta": 0.24318665514842974,
+          "delta": 0.06986046010067092,
+          "gamma": 0.08119243067925329
+        },
+        "session_time": 170,
+        "quality": 89.7840546392004,
+        "timestamp": "2025-06-05T09:58:18.701713"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:58:20.708512",
+      "session_time": 172,
+      "metrics": {
+        "attention": 89.6,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3387967045713458,
+          "theta": 0.25425594601236473,
+          "beta": 0.26318518948726055,
+          "delta": 0.09405105908888389,
+          "gamma": 0.04971110084014504
+        },
+        "session_time": 172,
+        "quality": 96.07326472730968,
+        "timestamp": "2025-06-05T09:58:20.708512"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:58:22.709141",
+      "session_time": 174,
+      "metrics": {
+        "attention": 87.3,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.35487350827073777,
+          "theta": 0.2724273622759244,
+          "beta": 0.2420689014987288,
+          "delta": 0.06941353585579715,
+          "gamma": 0.06121669209881196
+        },
+        "session_time": 174,
+        "quality": 91.53142457927225,
+        "timestamp": "2025-06-05T09:58:22.709141"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:58:24.718694",
+      "session_time": 176,
+      "metrics": {
+        "attention": 90.4,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.36541861406115206,
+          "theta": 0.2607671339151283,
+          "beta": 0.22234468361261006,
+          "delta": 0.08953331886095243,
+          "gamma": 0.06193624955015711
+        },
+        "session_time": 176,
+        "quality": 92.88849919281972,
+        "timestamp": "2025-06-05T09:58:24.718694"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:58:26.733147",
+      "session_time": 178,
+      "metrics": {
+        "attention": 89.7,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3518600812104622,
+          "theta": 0.2617946986391201,
+          "beta": 0.25930309814851926,
+          "delta": 0.08380474381503494,
+          "gamma": 0.04323737818686344
+        },
+        "session_time": 178,
+        "quality": 91.67874770479933,
+        "timestamp": "2025-06-05T09:58:26.733147"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:58:28.733537",
+      "session_time": 180,
+      "metrics": {
+        "attention": 92.5,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3798047352960729,
+          "theta": 0.2630859904002707,
+          "beta": 0.24954529863119845,
+          "delta": 0.05681886232076536,
+          "gamma": 0.05074511335169268
+        },
+        "session_time": 180,
+        "quality": 94.04655501184122,
+        "timestamp": "2025-06-05T09:58:28.733537"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:58:30.749173",
+      "session_time": 182,
+      "metrics": {
+        "attention": 90.5,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3799128915310825,
+          "theta": 0.24987727785161548,
+          "beta": 0.2196686452251855,
+          "delta": 0.09257935894218144,
+          "gamma": 0.05796182644993508
+        },
+        "session_time": 182,
+        "quality": 94.04715196032303,
+        "timestamp": "2025-06-05T09:58:30.749173"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:58:32.755735",
+      "session_time": 184,
+      "metrics": {
+        "attention": 92.1,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.33730007687372476,
+          "theta": 0.2480455330774653,
+          "beta": 0.25048068478125507,
+          "delta": 0.09633462161188062,
+          "gamma": 0.06783908365567418
+        },
+        "session_time": 184,
+        "quality": 96.79082764648336,
+        "timestamp": "2025-06-05T09:58:32.754720"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:58:34.759253",
+      "session_time": 186,
+      "metrics": {
+        "attention": 92.0,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3590400008647983,
+          "theta": 0.24885168312080316,
+          "beta": 0.23790087432521625,
+          "delta": 0.1009983044493927,
+          "gamma": 0.05320913723978946
+        },
+        "session_time": 186,
+        "quality": 85.45464356091249,
+        "timestamp": "2025-06-05T09:58:34.759253"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:58:36.760300",
+      "session_time": 188,
+      "metrics": {
+        "attention": 91.8,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.38184107974433296,
+          "theta": 0.2334138858074189,
+          "beta": 0.2656910733737069,
+          "delta": 0.05794295017389054,
+          "gamma": 0.06111101090065066
+        },
+        "session_time": 188,
+        "quality": 92.18318755544645,
+        "timestamp": "2025-06-05T09:58:36.760300"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:58:38.766133",
+      "session_time": 190,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.353979222633552,
+          "theta": 0.25755059598235885,
+          "beta": 0.2249351206400497,
+          "delta": 0.11503167303601577,
+          "gamma": 0.048503387708023774
+        },
+        "session_time": 190,
+        "quality": 88.31908844110332,
+        "timestamp": "2025-06-05T09:58:38.766133"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:58:40.780651",
+      "session_time": 192,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.37071287354917765,
+          "theta": 0.2291514789305375,
+          "beta": 0.238985367098731,
+          "delta": 0.10240195113784661,
+          "gamma": 0.058748329283707296
+        },
+        "session_time": 192,
+        "quality": 96.54125334616236,
+        "timestamp": "2025-06-05T09:58:40.780651"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:58:42.794879",
+      "session_time": 194,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.33102359717029234,
+          "theta": 0.2552498029117173,
+          "beta": 0.2545347614691862,
+          "delta": 0.08543503202383482,
+          "gamma": 0.07375680642496932
+        },
+        "session_time": 194,
+        "quality": 95.04296301723765,
+        "timestamp": "2025-06-05T09:58:42.794879"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:58:44.797212",
+      "session_time": 196,
+      "metrics": {
+        "attention": 95,
+        "meditation": 96.5,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3402267139276662,
+          "theta": 0.266354946600555,
+          "beta": 0.24517584945190382,
+          "delta": 0.09991228190959633,
+          "gamma": 0.048330208110278855
+        },
+        "session_time": 196,
+        "quality": 89.52047184025339,
+        "timestamp": "2025-06-05T09:58:44.797212"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:58:46.802623",
+      "session_time": 198,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3446697569079252,
+          "theta": 0.2598767665500299,
+          "beta": 0.2365099145602,
+          "delta": 0.09583528410898114,
+          "gamma": 0.06310827787286381
+        },
+        "session_time": 198,
+        "quality": 92.70771522137464,
+        "timestamp": "2025-06-05T09:58:46.802623"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:58:48.806480",
+      "session_time": 200,
+      "metrics": {
+        "attention": 95.0,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.35030053100928477,
+          "theta": 0.24582297616252607,
+          "beta": 0.23829588093036475,
+          "delta": 0.12090325151943652,
+          "gamma": 0.044677360378387876
+        },
+        "session_time": 200,
+        "quality": 85.25182745814004,
+        "timestamp": "2025-06-05T09:58:48.806480"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:58:50.818735",
+      "session_time": 202,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3691681825460177,
+          "theta": 0.27003479149524084,
+          "beta": 0.2266410122049638,
+          "delta": 0.0856995838236167,
+          "gamma": 0.048456429930161006
+        },
+        "session_time": 202,
+        "quality": 93.065158012312,
+        "timestamp": "2025-06-05T09:58:50.818735"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:58:52.818958",
+      "session_time": 204,
+      "metrics": {
+        "attention": 95,
+        "meditation": 95.8,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3837309502913326,
+          "theta": 0.23782168331505102,
+          "beta": 0.2441275921295747,
+          "delta": 0.08300858743085003,
+          "gamma": 0.05131118683319165
+        },
+        "session_time": 204,
+        "quality": 95.64817628313557,
+        "timestamp": "2025-06-05T09:58:52.818958"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:58:54.825110",
+      "session_time": 206,
+      "metrics": {
+        "attention": 94.2,
+        "meditation": 93.7,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3651388502416193,
+          "theta": 0.2653015562943432,
+          "beta": 0.24483629528113793,
+          "delta": 0.07519666601726624,
+          "gamma": 0.0495266321656333
+        },
+        "session_time": 206,
+        "quality": 89.12137893179064,
+        "timestamp": "2025-06-05T09:58:54.825110"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:58:56.837590",
+      "session_time": 208,
+      "metrics": {
+        "attention": 95,
+        "meditation": 94.6,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.331201124417355,
+          "theta": 0.24090452526327083,
+          "beta": 0.2520365383848342,
+          "delta": 0.10792234880065613,
+          "gamma": 0.06793546313388366
+        },
+        "session_time": 208,
+        "quality": 88.83189100500539,
+        "timestamp": "2025-06-05T09:58:56.837590"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:58:58.840564",
+      "session_time": 210,
+      "metrics": {
+        "attention": 95,
+        "meditation": 93.9,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3408541806560402,
+          "theta": 0.2650844847075583,
+          "beta": 0.25208801507126055,
+          "delta": 0.07982789662169801,
+          "gamma": 0.06214542294344311
+        },
+        "session_time": 210,
+        "quality": 86.87823987639679,
+        "timestamp": "2025-06-05T09:58:58.840564"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:59:00.844609",
+      "session_time": 212,
+      "metrics": {
+        "attention": 95,
+        "meditation": 91.8,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.35556080425475073,
+          "theta": 0.23105668624421208,
+          "beta": 0.23497048929351677,
+          "delta": 0.10837554119290208,
+          "gamma": 0.0700364790146183
+        },
+        "session_time": 212,
+        "quality": 95.00603391298033,
+        "timestamp": "2025-06-05T09:59:00.844609"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:59:02.852456",
+      "session_time": 214,
+      "metrics": {
+        "attention": 95,
+        "meditation": 94.8,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3505520622856177,
+          "theta": 0.24982083984354983,
+          "beta": 0.22476843660691556,
+          "delta": 0.11296130570301842,
+          "gamma": 0.061897355560898516
+        },
+        "session_time": 214,
+        "quality": 91.35496527622153,
+        "timestamp": "2025-06-05T09:59:02.852456"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:59:04.857807",
+      "session_time": 216,
+      "metrics": {
+        "attention": 91.0,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3500319599315569,
+          "theta": 0.30126180807459735,
+          "beta": 0.2302208147167664,
+          "delta": 0.06417300908242363,
+          "gamma": 0.054312408194655694
+        },
+        "session_time": 216,
+        "quality": 93.75592697958244,
+        "timestamp": "2025-06-05T09:59:04.857807"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:59:06.861109",
+      "session_time": 218,
+      "metrics": {
+        "attention": 90.2,
+        "meditation": 91.4,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3557382677813921,
+          "theta": 0.2652777202044827,
+          "beta": 0.23178870192721493,
+          "delta": 0.09447029220752863,
+          "gamma": 0.05272501787938141
+        },
+        "session_time": 218,
+        "quality": 98.76419032329454,
+        "timestamp": "2025-06-05T09:59:06.861109"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:59:08.868363",
+      "session_time": 220,
+      "metrics": {
+        "attention": 94.4,
+        "meditation": 95.3,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3512790700485611,
+          "theta": 0.26778087979746,
+          "beta": 0.24256603602425883,
+          "delta": 0.07839035902882957,
+          "gamma": 0.059983655100890355
+        },
+        "session_time": 220,
+        "quality": 90.49250234698074,
+        "timestamp": "2025-06-05T09:59:08.868363"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:59:10.883536",
+      "session_time": 222,
+      "metrics": {
+        "attention": 93.8,
+        "meditation": 94.4,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.32551985793221233,
+          "theta": 0.2697295108716665,
+          "beta": 0.24453801273432835,
+          "delta": 0.09090741125597343,
+          "gamma": 0.0693052072058194
+        },
+        "session_time": 222,
+        "quality": 88.1427687965456,
+        "timestamp": "2025-06-05T09:59:10.883536"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:59:12.896016",
+      "session_time": 224,
+      "metrics": {
+        "attention": 90.6,
+        "meditation": 97.9,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3792886423987513,
+          "theta": 0.22461896622507824,
+          "beta": 0.23712449456217694,
+          "delta": 0.09292410982947083,
+          "gamma": 0.06604378698452279
+        },
+        "session_time": 224,
+        "quality": 85.39573637202922,
+        "timestamp": "2025-06-05T09:59:12.896016"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:59:14.907850",
+      "session_time": 226,
+      "metrics": {
+        "attention": 88.5,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3952326274173292,
+          "theta": 0.2298738687223892,
+          "beta": 0.24181768229539694,
+          "delta": 0.08460071446130481,
+          "gamma": 0.04847510710357992
+        },
+        "session_time": 226,
+        "quality": 88.73791148627996,
+        "timestamp": "2025-06-05T09:59:14.907850"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:59:16.909217",
+      "session_time": 228,
+      "metrics": {
+        "attention": 87.4,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3898165866004349,
+          "theta": 0.23026018891727934,
+          "beta": 0.23563691828815178,
+          "delta": 0.08907959595409201,
+          "gamma": 0.05520671024004192
+        },
+        "session_time": 228,
+        "quality": 96.5681721677116,
+        "timestamp": "2025-06-05T09:59:16.909217"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:59:18.917485",
+      "session_time": 230,
+      "metrics": {
+        "attention": 90.4,
+        "meditation": 96.6,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3499829839133909,
+          "theta": 0.25641986460417027,
+          "beta": 0.24116114765842234,
+          "delta": 0.09391552794969425,
+          "gamma": 0.05852047587432226
+        },
+        "session_time": 230,
+        "quality": 89.51808858771624,
+        "timestamp": "2025-06-05T09:59:18.917485"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:59:20.931136",
+      "session_time": 232,
+      "metrics": {
+        "attention": 87.9,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.356432457997179,
+          "theta": 0.25992674194498994,
+          "beta": 0.2284790996824515,
+          "delta": 0.10548588715976233,
+          "gamma": 0.049675813215617225
+        },
+        "session_time": 232,
+        "quality": 92.14819436295213,
+        "timestamp": "2025-06-05T09:59:20.931136"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:59:22.937566",
+      "session_time": 234,
+      "metrics": {
+        "attention": 92.1,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.36109085148821696,
+          "theta": 0.2544540631562787,
+          "beta": 0.22399348050389234,
+          "delta": 0.10177133231497432,
+          "gamma": 0.05869027253663765
+        },
+        "session_time": 234,
+        "quality": 92.55466045894853,
+        "timestamp": "2025-06-05T09:59:22.937566"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:59:24.940223",
+      "session_time": 236,
+      "metrics": {
+        "attention": 89.2,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.33446500101025006,
+          "theta": 0.26172611238358384,
+          "beta": 0.2504827480784339,
+          "delta": 0.08582206143559934,
+          "gamma": 0.06750407709213282
+        },
+        "session_time": 236,
+        "quality": 98.49568625242814,
+        "timestamp": "2025-06-05T09:59:24.940223"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:59:26.947625",
+      "session_time": 238,
+      "metrics": {
+        "attention": 87.2,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.35333800048664094,
+          "theta": 0.27722689069794865,
+          "beta": 0.24195932876719786,
+          "delta": 0.06439755034797809,
+          "gamma": 0.06307822970023454
+        },
+        "session_time": 238,
+        "quality": 84.89601637587305,
+        "timestamp": "2025-06-05T09:59:26.947625"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:59:28.952028",
+      "session_time": 240,
+      "metrics": {
+        "attention": 89.6,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.36173169392465704,
+          "theta": 0.2673452772614784,
+          "beta": 0.2273144529323166,
+          "delta": 0.08389662260626463,
+          "gamma": 0.05971195327528349
+        },
+        "session_time": 240,
+        "quality": 93.44908532142517,
+        "timestamp": "2025-06-05T09:59:28.951420"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:59:30.963196",
+      "session_time": 242,
+      "metrics": {
+        "attention": 88.0,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.35699701653465865,
+          "theta": 0.2656752194462971,
+          "beta": 0.21342447590924843,
+          "delta": 0.1025287465650178,
+          "gamma": 0.06137454154477807
+        },
+        "session_time": 242,
+        "quality": 96.13209764390967,
+        "timestamp": "2025-06-05T09:59:30.963196"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:59:32.977554",
+      "session_time": 244,
+      "metrics": {
+        "attention": 92.4,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3734433959021133,
+          "theta": 0.26287265829082673,
+          "beta": 0.2367408766097505,
+          "delta": 0.06722754407357083,
+          "gamma": 0.0597155251237387
+        },
+        "session_time": 244,
+        "quality": 94.48338909012972,
+        "timestamp": "2025-06-05T09:59:32.977554"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:59:34.979753",
+      "session_time": 246,
+      "metrics": {
+        "attention": 88.8,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3592515967365669,
+          "theta": 0.2671067662753826,
+          "beta": 0.21368295085838657,
+          "delta": 0.09930440097448287,
+          "gamma": 0.06065428515518114
+        },
+        "session_time": 246,
+        "quality": 90.60912285992455,
+        "timestamp": "2025-06-05T09:59:34.979753"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:59:36.987078",
+      "session_time": 248,
+      "metrics": {
+        "attention": 91.3,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.36259504911264356,
+          "theta": 0.2501323092992774,
+          "beta": 0.23158835044497955,
+          "delta": 0.08537702903358489,
+          "gamma": 0.07030726210951463
+        },
+        "session_time": 248,
+        "quality": 89.02823605088916,
+        "timestamp": "2025-06-05T09:59:36.987078"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:59:39.002421",
+      "session_time": 250,
+      "metrics": {
+        "attention": 92.3,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3398151317215421,
+          "theta": 0.25511167438636034,
+          "beta": 0.2483776688945587,
+          "delta": 0.10312419385219528,
+          "gamma": 0.053571331145343626
+        },
+        "session_time": 250,
+        "quality": 94.6339408483473,
+        "timestamp": "2025-06-05T09:59:39.002421"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:59:41.005598",
+      "session_time": 252,
+      "metrics": {
+        "attention": 91.1,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.36811380990227793,
+          "theta": 0.25563677132847346,
+          "beta": 0.24338234688809213,
+          "delta": 0.08514127708096636,
+          "gamma": 0.04772579480019027
+        },
+        "session_time": 252,
+        "quality": 89.68374246760192,
+        "timestamp": "2025-06-05T09:59:41.005598"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:59:43.013237",
+      "session_time": 254,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.38350126143072505,
+          "theta": 0.26097553271998664,
+          "beta": 0.23708138923498634,
+          "delta": 0.06887858860245291,
+          "gamma": 0.04956322801184904
+        },
+        "session_time": 254,
+        "quality": 98.1855479844794,
+        "timestamp": "2025-06-05T09:59:43.013237"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:59:45.019547",
+      "session_time": 256,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3915674517138077,
+          "theta": 0.23637495432393482,
+          "beta": 0.23077728474697262,
+          "delta": 0.09461855934177542,
+          "gamma": 0.04666174987350931
+        },
+        "session_time": 256,
+        "quality": 99.41488901692993,
+        "timestamp": "2025-06-05T09:59:45.019547"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:59:47.022834",
+      "session_time": 258,
+      "metrics": {
+        "attention": 94.1,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.32831041502990316,
+          "theta": 0.254879049570471,
+          "beta": 0.2671708709191404,
+          "delta": 0.0942869162847353,
+          "gamma": 0.05535274819575007
+        },
+        "session_time": 258,
+        "quality": 91.74596396966201,
+        "timestamp": "2025-06-05T09:59:47.022834"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:59:49.033951",
+      "session_time": 260,
+      "metrics": {
+        "attention": 94.1,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.35398347971984645,
+          "theta": 0.2528952215220762,
+          "beta": 0.2673267960675665,
+          "delta": 0.06812391043966731,
+          "gamma": 0.05767059225084357
+        },
+        "session_time": 260,
+        "quality": 92.86854387639885,
+        "timestamp": "2025-06-05T09:59:49.033951"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:59:51.047308",
+      "session_time": 262,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.33672602487751585,
+          "theta": 0.27155819870304565,
+          "beta": 0.2300424946196442,
+          "delta": 0.10705038936464471,
+          "gamma": 0.05462289243514962
+        },
+        "session_time": 262,
+        "quality": 87.68032975863241,
+        "timestamp": "2025-06-05T09:59:51.047308"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:59:53.049032",
+      "session_time": 264,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3403898666589356,
+          "theta": 0.25606013164543884,
+          "beta": 0.2568571699052897,
+          "delta": 0.08963912720182553,
+          "gamma": 0.05705370458851038
+        },
+        "session_time": 264,
+        "quality": 91.22869876085294,
+        "timestamp": "2025-06-05T09:59:53.049032"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:59:55.055751",
+      "session_time": 266,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.34671628098978646,
+          "theta": 0.2651793570827555,
+          "beta": 0.24964730167955246,
+          "delta": 0.07743604493654176,
+          "gamma": 0.061021015311363794
+        },
+        "session_time": 266,
+        "quality": 86.77158133318488,
+        "timestamp": "2025-06-05T09:59:55.055751"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:59:57.059728",
+      "session_time": 268,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3363328069982389,
+          "theta": 0.27225100765497995,
+          "beta": 0.2501140709171848,
+          "delta": 0.07329486425873369,
+          "gamma": 0.06800725017086244
+        },
+        "session_time": 268,
+        "quality": 92.00612446172642,
+        "timestamp": "2025-06-05T09:59:57.059728"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:59:59.063147",
+      "session_time": 270,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.37536855033578637,
+          "theta": 0.24095535678141136,
+          "beta": 0.2444442587048107,
+          "delta": 0.07701305961191217,
+          "gamma": 0.06221877456607934
+        },
+        "session_time": 270,
+        "quality": 92.8615533119634,
+        "timestamp": "2025-06-05T09:59:59.063147"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:00:01.077018",
+      "session_time": 272,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3416769141650393,
+          "theta": 0.2586086249845995,
+          "beta": 0.24400705389699895,
+          "delta": 0.09585031910871905,
+          "gamma": 0.059857087844643185
+        },
+        "session_time": 272,
+        "quality": 93.82835910236314,
+        "timestamp": "2025-06-05T10:00:01.077018"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:00:03.092834",
+      "session_time": 274,
+      "metrics": {
+        "attention": 94.4,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.38629532533759664,
+          "theta": 0.23305313634264277,
+          "beta": 0.2436382648532126,
+          "delta": 0.07393069999911343,
+          "gamma": 0.06308257346743464
+        },
+        "session_time": 274,
+        "quality": 95.4734000974241,
+        "timestamp": "2025-06-05T10:00:03.092834"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:00:05.106883",
+      "session_time": 276,
+      "metrics": {
+        "attention": 89.9,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3526352781014632,
+          "theta": 0.2561166734153874,
+          "beta": 0.23760767554546497,
+          "delta": 0.09604506981538055,
+          "gamma": 0.05759530312230385
+        },
+        "session_time": 276,
+        "quality": 87.52549391437702,
+        "timestamp": "2025-06-05T10:00:05.106883"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:00:07.120564",
+      "session_time": 278,
+      "metrics": {
+        "attention": 94.2,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3619053697354391,
+          "theta": 0.25710696046018616,
+          "beta": 0.2430441475127352,
+          "delta": 0.07104975307071913,
+          "gamma": 0.06689376922092033
+        },
+        "session_time": 278,
+        "quality": 92.66358432474195,
+        "timestamp": "2025-06-05T10:00:07.120564"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:00:09.125275",
+      "session_time": 280,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.371969148141727,
+          "theta": 0.241666586757085,
+          "beta": 0.23948690533147304,
+          "delta": 0.09333931690111659,
+          "gamma": 0.05353804286859853
+        },
+        "session_time": 280,
+        "quality": 85.9405474525634,
+        "timestamp": "2025-06-05T10:00:09.125275"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:00:11.126637",
+      "session_time": 282,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3246614076801517,
+          "theta": 0.2702471569410018,
+          "beta": 0.2642941716528845,
+          "delta": 0.0795938713678283,
+          "gamma": 0.061203392358133525
+        },
+        "session_time": 282,
+        "quality": 96.44695789851728,
+        "timestamp": "2025-06-05T10:00:11.126637"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:00:13.139432",
+      "session_time": 284,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.37745298147911505,
+          "theta": 0.2523437171120934,
+          "beta": 0.21862567063346092,
+          "delta": 0.09420524409393728,
+          "gamma": 0.05737238668139327
+        },
+        "session_time": 284,
+        "quality": 93.45898180335703,
+        "timestamp": "2025-06-05T10:00:13.139432"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:00:15.148450",
+      "session_time": 286,
+      "metrics": {
+        "attention": 89.9,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3463711967872286,
+          "theta": 0.2572261654917614,
+          "beta": 0.25584157098434995,
+          "delta": 0.08703036969650907,
+          "gamma": 0.05353069704015105
+        },
+        "session_time": 286,
+        "quality": 88.23587037323658,
+        "timestamp": "2025-06-05T10:00:15.148450"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:00:17.161694",
+      "session_time": 288,
+      "metrics": {
+        "attention": 87.7,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3449666380574631,
+          "theta": 0.2631437900628534,
+          "beta": 0.21222610220547702,
+          "delta": 0.11159614225900656,
+          "gamma": 0.0680673274152001
+        },
+        "session_time": 288,
+        "quality": 92.41908182345324,
+        "timestamp": "2025-06-05T10:00:17.161694"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:00:19.167721",
+      "session_time": 290,
+      "metrics": {
+        "attention": 91.8,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.37486423483436576,
+          "theta": 0.2537290361926131,
+          "beta": 0.23010622286391144,
+          "delta": 0.0891478746090413,
+          "gamma": 0.05215263150006838
+        },
+        "session_time": 290,
+        "quality": 91.24104467077397,
+        "timestamp": "2025-06-05T10:00:19.167721"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:00:21.180765",
+      "session_time": 292,
+      "metrics": {
+        "attention": 89.3,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.37558224148849423,
+          "theta": 0.2555931850259524,
+          "beta": 0.23668499213664876,
+          "delta": 0.0885944574335919,
+          "gamma": 0.04354512391531278
+        },
+        "session_time": 292,
+        "quality": 92.01665934339317,
+        "timestamp": "2025-06-05T10:00:21.180765"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:00:23.189240",
+      "session_time": 294,
+      "metrics": {
+        "attention": 89.5,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3601862514863501,
+          "theta": 0.25829469045386194,
+          "beta": 0.2415239320236232,
+          "delta": 0.07627089834844511,
+          "gamma": 0.06372422768771964
+        },
+        "session_time": 294,
+        "quality": 92.57379741601837,
+        "timestamp": "2025-06-05T10:00:23.189240"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:00:25.205300",
+      "session_time": 296,
+      "metrics": {
+        "attention": 87.5,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3609817354158267,
+          "theta": 0.25831382994532076,
+          "beta": 0.23730830340211445,
+          "delta": 0.08637754909972237,
+          "gamma": 0.057018582137015696
+        },
+        "session_time": 296,
+        "quality": 87.12718623925292,
+        "timestamp": "2025-06-05T10:00:25.205300"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:00:27.213478",
+      "session_time": 298,
+      "metrics": {
+        "attention": 88.3,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.33947834948370836,
+          "theta": 0.2597194756335078,
+          "beta": 0.23750271526472022,
+          "delta": 0.0980909373817494,
+          "gamma": 0.06520852223631432
+        },
+        "session_time": 298,
+        "quality": 95.30606720778498,
+        "timestamp": "2025-06-05T10:00:27.213478"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:00:31.637217",
+      "session_time": 300,
+      "metrics": {
+        "attention": 85.6,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.36751668054068426,
+          "theta": 0.23442896364920196,
+          "beta": 0.22229965350015582,
+          "delta": 0.10890182436830427,
+          "gamma": 0.06685287794165377
+        },
+        "session_time": 300,
+        "quality": 90.93184572847436,
+        "timestamp": "2025-06-05T10:00:31.637217"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:00:33.651184",
+      "session_time": 302,
+      "metrics": {
+        "attention": 88.2,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3630564422232884,
+          "theta": 0.2488907684367817,
+          "beta": 0.24016531379793404,
+          "delta": 0.09256626618645465,
+          "gamma": 0.0553212093555412
+        },
+        "session_time": 302,
+        "quality": 89.53069465603372,
+        "timestamp": "2025-06-05T10:00:33.651184"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:00:35.664866",
+      "session_time": 304,
+      "metrics": {
+        "attention": 89.3,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3635163375254368,
+          "theta": 0.2397792864924921,
+          "beta": 0.23082848527404368,
+          "delta": 0.09930089523575639,
+          "gamma": 0.06657499547227112
+        },
+        "session_time": 304,
+        "quality": 87.95345854946791,
+        "timestamp": "2025-06-05T10:00:35.664866"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:00:37.673737",
+      "session_time": 306,
+      "metrics": {
+        "attention": 90.2,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3839838490930679,
+          "theta": 0.25743091882426494,
+          "beta": 0.21327172969680847,
+          "delta": 0.09240559035659755,
+          "gamma": 0.05290791202926112
+        },
+        "session_time": 306,
+        "quality": 96.06498890917891,
+        "timestamp": "2025-06-05T10:00:37.673737"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:00:39.680425",
+      "session_time": 308,
+      "metrics": {
+        "attention": 91.4,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.37685701797433,
+          "theta": 0.2417963729400097,
+          "beta": 0.25091344519919667,
+          "delta": 0.07209654509717595,
+          "gamma": 0.05833661878928749
+        },
+        "session_time": 308,
+        "quality": 93.71676171330381,
+        "timestamp": "2025-06-05T10:00:39.680425"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:00:41.681376",
+      "session_time": 310,
+      "metrics": {
+        "attention": 90.6,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.34456210580062835,
+          "theta": 0.25595013953641466,
+          "beta": 0.2426584741464078,
+          "delta": 0.09558267886319481,
+          "gamma": 0.06124660165335453
+        },
+        "session_time": 310,
+        "quality": 92.54595622996612,
+        "timestamp": "2025-06-05T10:00:41.681376"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:00:43.696269",
+      "session_time": 312,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3725381188240204,
+          "theta": 0.23968542013530866,
+          "beta": 0.2271629618205365,
+          "delta": 0.09768826531840356,
+          "gamma": 0.06292523390173076
+        },
+        "session_time": 312,
+        "quality": 95.05824809606735,
+        "timestamp": "2025-06-05T10:00:43.696269"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:00:45.697897",
+      "session_time": 314,
+      "metrics": {
+        "attention": 93.4,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.35208667008199634,
+          "theta": 0.2527229442421068,
+          "beta": 0.2535667940253308,
+          "delta": 0.08525601589732314,
+          "gamma": 0.05636757575324308
+        },
+        "session_time": 314,
+        "quality": 89.38186367830474,
+        "timestamp": "2025-06-05T10:00:45.697897"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:00:47.713714",
+      "session_time": 316,
+      "metrics": {
+        "attention": 94.3,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3817354831628001,
+          "theta": 0.23654713095283217,
+          "beta": 0.23639147549413267,
+          "delta": 0.09277307643769175,
+          "gamma": 0.052552833952543274
+        },
+        "session_time": 316,
+        "quality": 94.58338267516999,
+        "timestamp": "2025-06-05T10:00:47.713714"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:00:49.728930",
+      "session_time": 318,
+      "metrics": {
+        "attention": 94.7,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.34982907926958684,
+          "theta": 0.2534890688470023,
+          "beta": 0.24353519588740322,
+          "delta": 0.09313958908629161,
+          "gamma": 0.06000706690971598
+        },
+        "session_time": 318,
+        "quality": 93.79311884241986,
+        "timestamp": "2025-06-05T10:00:49.728930"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:00:51.731714",
+      "session_time": 320,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.36185695895029024,
+          "theta": 0.25104874754527085,
+          "beta": 0.23181463119907478,
+          "delta": 0.09250608300516175,
+          "gamma": 0.06277357930020244
+        },
+        "session_time": 320,
+        "quality": 100.7744034359996,
+        "timestamp": "2025-06-05T10:00:51.731714"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:00:53.736059",
+      "session_time": 322,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3405669812555143,
+          "theta": 0.25345153140526383,
+          "beta": 0.26480623183207586,
+          "delta": 0.07776232943161283,
+          "gamma": 0.06341292607553298
+        },
+        "session_time": 322,
+        "quality": 87.60248890872977,
+        "timestamp": "2025-06-05T10:00:53.736059"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:00:55.744760",
+      "session_time": 324,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3531968738624349,
+          "theta": 0.2400372088333131,
+          "beta": 0.248265712142782,
+          "delta": 0.10629595856925697,
+          "gamma": 0.05220424659221296
+        },
+        "session_time": 324,
+        "quality": 91.15322167125407,
+        "timestamp": "2025-06-05T10:00:55.744760"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:00:57.747495",
+      "session_time": 326,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3957468645201189,
+          "theta": 0.2350842047400287,
+          "beta": 0.24007531492523895,
+          "delta": 0.07647821415777654,
+          "gamma": 0.05261540165683698
+        },
+        "session_time": 326,
+        "quality": 92.66980627596273,
+        "timestamp": "2025-06-05T10:00:57.747495"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:00:59.760523",
+      "session_time": 328,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.37539429589617496,
+          "theta": 0.2270234044052161,
+          "beta": 0.25101772749052315,
+          "delta": 0.09763588199366428,
+          "gamma": 0.04892869021442144
+        },
+        "session_time": 328,
+        "quality": 92.25578956416608,
+        "timestamp": "2025-06-05T10:00:59.760523"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:01:01.767917",
+      "session_time": 330,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.325218030958473,
+          "theta": 0.2691214007512465,
+          "beta": 0.25532245296744677,
+          "delta": 0.08257381534364124,
+          "gamma": 0.0677642999791926
+        },
+        "session_time": 330,
+        "quality": 92.2835287581262,
+        "timestamp": "2025-06-05T10:01:01.767917"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:01:03.775045",
+      "session_time": 332,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3714914427419313,
+          "theta": 0.27024712324483646,
+          "beta": 0.23736130498349206,
+          "delta": 0.07545332410833033,
+          "gamma": 0.04544680492140987
+        },
+        "session_time": 332,
+        "quality": 86.19287868236482,
+        "timestamp": "2025-06-05T10:01:03.775045"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:01:05.784466",
+      "session_time": 334,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3638047892504554,
+          "theta": 0.25233103705414556,
+          "beta": 0.22645097269341807,
+          "delta": 0.1033025471942519,
+          "gamma": 0.05411065380772898
+        },
+        "session_time": 334,
+        "quality": 94.23981375765314,
+        "timestamp": "2025-06-05T10:01:05.783466"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:01:07.799593",
+      "session_time": 336,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.35290812606918287,
+          "theta": 0.25505717570487046,
+          "beta": 0.24949821741752518,
+          "delta": 0.08570930862207922,
+          "gamma": 0.056827172186342215
+        },
+        "session_time": 336,
+        "quality": 92.31100841868806,
+        "timestamp": "2025-06-05T10:01:07.799593"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:01:09.814961",
+      "session_time": 338,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.37408638304763686,
+          "theta": 0.225087290774196,
+          "beta": 0.2661050387108827,
+          "delta": 0.07608883579019303,
+          "gamma": 0.058632451677091406
+        },
+        "session_time": 338,
+        "quality": 88.83958575893408,
+        "timestamp": "2025-06-05T10:01:09.814961"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:01:11.822221",
+      "session_time": 340,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.35763456956604306,
+          "theta": 0.2601444011339042,
+          "beta": 0.24326189135787485,
+          "delta": 0.07644714556982085,
+          "gamma": 0.062511992372357
+        },
+        "session_time": 340,
+        "quality": 91.32880500557495,
+        "timestamp": "2025-06-05T10:01:11.822221"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:01:13.835535",
+      "session_time": 342,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.36461715634540237,
+          "theta": 0.2546677994636102,
+          "beta": 0.2630364292112581,
+          "delta": 0.060066627691990886,
+          "gamma": 0.05761198728773852
+        },
+        "session_time": 342,
+        "quality": 91.24795560659612,
+        "timestamp": "2025-06-05T10:01:13.835535"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:01:15.850433",
+      "session_time": 344,
+      "metrics": {
+        "attention": 94.9,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.35621784443773546,
+          "theta": 0.24217687673572502,
+          "beta": 0.24859265207853035,
+          "delta": 0.09172133719542395,
+          "gamma": 0.06129128955258525
+        },
+        "session_time": 344,
+        "quality": 89.71479135978,
+        "timestamp": "2025-06-05T10:01:15.850433"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:01:17.853333",
+      "session_time": 346,
+      "metrics": {
+        "attention": 91.6,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.36654657226496995,
+          "theta": 0.23850402607578786,
+          "beta": 0.24191489882840816,
+          "delta": 0.09647834459028382,
+          "gamma": 0.05655615824055019
+        },
+        "session_time": 346,
+        "quality": 97.34490058334887,
+        "timestamp": "2025-06-05T10:01:17.853333"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:01:19.855053",
+      "session_time": 348,
+      "metrics": {
+        "attention": 90.5,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.37366921039014356,
+          "theta": 0.21919091927430004,
+          "beta": 0.24306588176430846,
+          "delta": 0.09245419452213487,
+          "gamma": 0.07161979404911319
+        },
+        "session_time": 348,
+        "quality": 89.86321431267277,
+        "timestamp": "2025-06-05T10:01:19.855053"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:01:21.868856",
+      "session_time": 350,
+      "metrics": {
+        "attention": 90.7,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.37046718556694086,
+          "theta": 0.23789118993190744,
+          "beta": 0.24827865134758403,
+          "delta": 0.07999701041433543,
+          "gamma": 0.06336596273923231
+        },
+        "session_time": 350,
+        "quality": 85.49914721758468,
+        "timestamp": "2025-06-05T10:01:21.868856"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:01:23.871555",
+      "session_time": 352,
+      "metrics": {
+        "attention": 88.2,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.34470968497386534,
+          "theta": 0.2613430986621982,
+          "beta": 0.23707102526195445,
+          "delta": 0.0964904658798471,
+          "gamma": 0.06038572522213491
+        },
+        "session_time": 352,
+        "quality": 92.13569416139937,
+        "timestamp": "2025-06-05T10:01:23.871555"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:01:25.876567",
+      "session_time": 354,
+      "metrics": {
+        "attention": 92.5,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3656624092998963,
+          "theta": 0.24437363150483338,
+          "beta": 0.24684592308988135,
+          "delta": 0.09149139550251646,
+          "gamma": 0.051626640602872656
+        },
+        "session_time": 354,
+        "quality": 87.38066081141193,
+        "timestamp": "2025-06-05T10:01:25.876567"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:01:27.881446",
+      "session_time": 356,
+      "metrics": {
+        "attention": 93.5,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.349984579410957,
+          "theta": 0.22249564878719175,
+          "beta": 0.2512357158443185,
+          "delta": 0.11694831840482489,
+          "gamma": 0.0593357375527079
+        },
+        "session_time": 356,
+        "quality": 89.74731596819065,
+        "timestamp": "2025-06-05T10:01:27.881446"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:01:29.895211",
+      "session_time": 358,
+      "metrics": {
+        "attention": 86.9,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.34562005049659567,
+          "theta": 0.265438287737425,
+          "beta": 0.2343328639124939,
+          "delta": 0.09753387287675555,
+          "gamma": 0.05707492497672987
+        },
+        "session_time": 358,
+        "quality": 89.20906970855866,
+        "timestamp": "2025-06-05T10:01:29.895211"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:01:31.895507",
+      "session_time": 360,
+      "metrics": {
+        "attention": 91.1,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3554897756288234,
+          "theta": 0.24750360363501736,
+          "beta": 0.2399645374791221,
+          "delta": 0.1013601143631424,
+          "gamma": 0.05568196889389474
+        },
+        "session_time": 360,
+        "quality": 95.94236955431704,
+        "timestamp": "2025-06-05T10:01:31.895507"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:01:33.898937",
+      "session_time": 362,
+      "metrics": {
+        "attention": 86.8,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3591702203612912,
+          "theta": 0.24275080000638194,
+          "beta": 0.2580040463673036,
+          "delta": 0.07189267838981801,
+          "gamma": 0.06818225487520524
+        },
+        "session_time": 362,
+        "quality": 95.84157885004477,
+        "timestamp": "2025-06-05T10:01:33.898937"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:01:35.914068",
+      "session_time": 364,
+      "metrics": {
+        "attention": 90.9,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.366014349384488,
+          "theta": 0.2629488578252309,
+          "beta": 0.21827046421068963,
+          "delta": 0.09249170169569837,
+          "gamma": 0.06027462688389321
+        },
+        "session_time": 364,
+        "quality": 93.69664563288279,
+        "timestamp": "2025-06-05T10:01:35.914068"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:01:37.921271",
+      "session_time": 366,
+      "metrics": {
+        "attention": 86.6,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.37731841983766695,
+          "theta": 0.2560815391851227,
+          "beta": 0.22735564820907017,
+          "delta": 0.08046150369691946,
+          "gamma": 0.058782889071220756
+        },
+        "session_time": 366,
+        "quality": 90.67835155654598,
+        "timestamp": "2025-06-05T10:01:37.921271"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:01:39.924775",
+      "session_time": 368,
+      "metrics": {
+        "attention": 90.7,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3479404866340986,
+          "theta": 0.2681693894237769,
+          "beta": 0.2557059547096845,
+          "delta": 0.0707801938185864,
+          "gamma": 0.05740397541385364
+        },
+        "session_time": 368,
+        "quality": 88.30620985229714,
+        "timestamp": "2025-06-05T10:01:39.924775"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:01:41.928733",
+      "session_time": 370,
+      "metrics": {
+        "attention": 86.5,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.38232292643907306,
+          "theta": 0.2508781819666428,
+          "beta": 0.21839599861419948,
+          "delta": 0.08024919821750257,
+          "gamma": 0.06815369476258207
+        },
+        "session_time": 370,
+        "quality": 89.46081813275788,
+        "timestamp": "2025-06-05T10:01:41.928733"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:01:43.945190",
+      "session_time": 372,
+      "metrics": {
+        "attention": 89.1,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3346725113696271,
+          "theta": 0.26137903836682147,
+          "beta": 0.2551875123066995,
+          "delta": 0.08089158014749222,
+          "gamma": 0.06786935780935958
+        },
+        "session_time": 372,
+        "quality": 91.3893777373418,
+        "timestamp": "2025-06-05T10:01:43.945190"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:01:45.954102",
+      "session_time": 374,
+      "metrics": {
+        "attention": 89.9,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3758249061112392,
+          "theta": 0.24700321809425294,
+          "beta": 0.2515595629813437,
+          "delta": 0.07494985466249807,
+          "gamma": 0.050662458150666216
+        },
+        "session_time": 374,
+        "quality": 93.95339572530763,
+        "timestamp": "2025-06-05T10:01:45.954102"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:01:47.966011",
+      "session_time": 376,
+      "metrics": {
+        "attention": 91.3,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.380588758697097,
+          "theta": 0.24771809967343617,
+          "beta": 0.23413662566460078,
+          "delta": 0.07653570410980101,
+          "gamma": 0.06102081185506497
+        },
+        "session_time": 376,
+        "quality": 88.90935375982723,
+        "timestamp": "2025-06-05T10:01:47.966011"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:01:49.976677",
+      "session_time": 378,
+      "metrics": {
+        "attention": 91.4,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.37427786799055557,
+          "theta": 0.22472398457853793,
+          "beta": 0.24010548401678888,
+          "delta": 0.08522863626218748,
+          "gamma": 0.0756640271519302
+        },
+        "session_time": 378,
+        "quality": 89.04722623888662,
+        "timestamp": "2025-06-05T10:01:49.976677"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:01:51.991560",
+      "session_time": 380,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.35355811558955963,
+          "theta": 0.245409941195763,
+          "beta": 0.24064101133120283,
+          "delta": 0.09628796786874153,
+          "gamma": 0.06410296401473303
+        },
+        "session_time": 380,
+        "quality": 94.65279109507061,
+        "timestamp": "2025-06-05T10:01:51.991560"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:01:53.993690",
+      "session_time": 382,
+      "metrics": {
+        "attention": 92.4,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.35691742513003993,
+          "theta": 0.23453056640189196,
+          "beta": 0.24112847508891413,
+          "delta": 0.1057786470815751,
+          "gamma": 0.061644886297578805
+        },
+        "session_time": 382,
+        "quality": 91.0642937797172,
+        "timestamp": "2025-06-05T10:01:53.993690"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:01:56.007922",
+      "session_time": 384,
+      "metrics": {
+        "attention": 94.6,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.40262532514303406,
+          "theta": 0.2408341344485872,
+          "beta": 0.22575756104710062,
+          "delta": 0.0814314872918003,
+          "gamma": 0.049351492069477636
+        },
+        "session_time": 384,
+        "quality": 92.24842684856323,
+        "timestamp": "2025-06-05T10:01:56.007922"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:01:58.016795",
+      "session_time": 386,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.35097982414542556,
+          "theta": 0.2454056697423247,
+          "beta": 0.24948633252471503,
+          "delta": 0.09163002584343259,
+          "gamma": 0.06249814774410212
+        },
+        "session_time": 386,
+        "quality": 100.29853598483476,
+        "timestamp": "2025-06-05T10:01:58.016795"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:02:00.027629",
+      "session_time": 388,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3558306352201129,
+          "theta": 0.22765309621732133,
+          "beta": 0.24996405920661113,
+          "delta": 0.10958012622466846,
+          "gamma": 0.056972083131286294
+        },
+        "session_time": 388,
+        "quality": 95.81004663790337,
+        "timestamp": "2025-06-05T10:02:00.027629"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:02:02.040308",
+      "session_time": 390,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.34831968771763433,
+          "theta": 0.253445843020931,
+          "beta": 0.24879490507762939,
+          "delta": 0.08589937890599016,
+          "gamma": 0.06354018527781521
+        },
+        "session_time": 390,
+        "quality": 93.29902043408693,
+        "timestamp": "2025-06-05T10:02:02.040308"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:02:04.054626",
+      "session_time": 392,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.35120114857524715,
+          "theta": 0.25518478787671084,
+          "beta": 0.24530663897860577,
+          "delta": 0.10077172402924135,
+          "gamma": 0.04753570054019508
+        },
+        "session_time": 392,
+        "quality": 91.71740685774638,
+        "timestamp": "2025-06-05T10:02:04.054626"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:02:06.057026",
+      "session_time": 394,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.37906821857329287,
+          "theta": 0.23749879274178498,
+          "beta": 0.2455577812274738,
+          "delta": 0.0753156053974344,
+          "gamma": 0.0625596020600139
+        },
+        "session_time": 394,
+        "quality": 90.68414985087162,
+        "timestamp": "2025-06-05T10:02:06.057026"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:02:08.069839",
+      "session_time": 396,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.34553155635068,
+          "theta": 0.26043206549473125,
+          "beta": 0.2555170158764631,
+          "delta": 0.09166918559065865,
+          "gamma": 0.04685017668746704
+        },
+        "session_time": 396,
+        "quality": 91.88991900284869,
+        "timestamp": "2025-06-05T10:02:08.069839"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:02:10.077834",
+      "session_time": 398,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3489016758913466,
+          "theta": 0.26529398751014877,
+          "beta": 0.26182734289214143,
+          "delta": 0.05377618673379627,
+          "gamma": 0.07020080697256677
+        },
+        "session_time": 398,
+        "quality": 93.42167533773487,
+        "timestamp": "2025-06-05T10:02:10.077834"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:02:12.091769",
+      "session_time": 400,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.38086563154879005,
+          "theta": 0.22321542610669495,
+          "beta": 0.24446779437331256,
+          "delta": 0.10092571500945896,
+          "gamma": 0.05052543296174339
+        },
+        "session_time": 400,
+        "quality": 91.51794710688247,
+        "timestamp": "2025-06-05T10:02:12.091769"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:02:14.094659",
+      "session_time": 402,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3182084444111818,
+          "theta": 0.25698868904815303,
+          "beta": 0.28364802634749475,
+          "delta": 0.08330088249004192,
+          "gamma": 0.057853957703128525
+        },
+        "session_time": 402,
+        "quality": 96.52109688198716,
+        "timestamp": "2025-06-05T10:02:14.094659"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:02:16.098570",
+      "session_time": 404,
+      "metrics": {
+        "attention": 94.4,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.36166023240241413,
+          "theta": 0.2606364620148589,
+          "beta": 0.24940419752519907,
+          "delta": 0.06532550049604838,
+          "gamma": 0.06297360756147959
+        },
+        "session_time": 404,
+        "quality": 89.05084461388903,
+        "timestamp": "2025-06-05T10:02:16.098570"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:02:18.103207",
+      "session_time": 406,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3565204999625438,
+          "theta": 0.2466175567892306,
+          "beta": 0.24869880630787344,
+          "delta": 0.08894831991863197,
+          "gamma": 0.05921481702172008
+        },
+        "session_time": 406,
+        "quality": 88.99696505909678,
+        "timestamp": "2025-06-05T10:02:18.103207"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:02:20.104107",
+      "session_time": 408,
+      "metrics": {
+        "attention": 94.3,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.34168451277511863,
+          "theta": 0.2451137372650447,
+          "beta": 0.2519904636700455,
+          "delta": 0.10003551689125953,
+          "gamma": 0.06117576939853158
+        },
+        "session_time": 408,
+        "quality": 91.03856429883608,
+        "timestamp": "2025-06-05T10:02:20.104107"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:02:22.109955",
+      "session_time": 410,
+      "metrics": {
+        "attention": 90.8,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.36797590776986877,
+          "theta": 0.23800806284175016,
+          "beta": 0.25248676149708715,
+          "delta": 0.07751464803887015,
+          "gamma": 0.06401461985242388
+        },
+        "session_time": 410,
+        "quality": 89.14586605167233,
+        "timestamp": "2025-06-05T10:02:22.109955"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:02:24.115351",
+      "session_time": 412,
+      "metrics": {
+        "attention": 91.9,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3780551641801882,
+          "theta": 0.2482354746880673,
+          "beta": 0.22509894731648894,
+          "delta": 0.09295624994158048,
+          "gamma": 0.05565416387367498
+        },
+        "session_time": 412,
+        "quality": 90.46014924240492,
+        "timestamp": "2025-06-05T10:02:24.115351"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:02:26.125492",
+      "session_time": 414,
+      "metrics": {
+        "attention": 87.5,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.39067859864842625,
+          "theta": 0.27357224158962123,
+          "beta": 0.20474726109661195,
+          "delta": 0.0790766619336718,
+          "gamma": 0.05192523673166869
+        },
+        "session_time": 414,
+        "quality": 90.31372722834809,
+        "timestamp": "2025-06-05T10:02:26.125492"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:02:28.128785",
+      "session_time": 416,
+      "metrics": {
+        "attention": 90.6,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.34332754754620814,
+          "theta": 0.2629465796418954,
+          "beta": 0.2663633246424121,
+          "delta": 0.0820942934127118,
+          "gamma": 0.04526825475677272
+        },
+        "session_time": 416,
+        "quality": 91.71978576509564,
+        "timestamp": "2025-06-05T10:02:28.128785"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:02:30.139883",
+      "session_time": 418,
+      "metrics": {
+        "attention": 86.6,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3624558524948697,
+          "theta": 0.2502411908824394,
+          "beta": 0.23366056387460796,
+          "delta": 0.10161374885488035,
+          "gamma": 0.052028643893202574
+        },
+        "session_time": 418,
+        "quality": 92.51468794705092,
+        "timestamp": "2025-06-05T10:02:30.139883"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:02:32.141852",
+      "session_time": 420,
+      "metrics": {
+        "attention": 87.5,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.37427594092645877,
+          "theta": 0.2521430381306506,
+          "beta": 0.23757982114229456,
+          "delta": 0.0728200478255103,
+          "gamma": 0.0631811519750857
+        },
+        "session_time": 420,
+        "quality": 88.8404862042674,
+        "timestamp": "2025-06-05T10:02:32.141852"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:02:34.153899",
+      "session_time": 422,
+      "metrics": {
+        "attention": 88.8,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.35151105982831626,
+          "theta": 0.25078938107919135,
+          "beta": 0.26526254333240074,
+          "delta": 0.07878229682228607,
+          "gamma": 0.05365471893780562
+        },
+        "session_time": 422,
+        "quality": 94.6435961624761,
+        "timestamp": "2025-06-05T10:02:34.153899"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:02:36.162218",
+      "session_time": 424,
+      "metrics": {
+        "attention": 86.9,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.34784160677645354,
+          "theta": 0.265547096371135,
+          "beta": 0.2507585541005111,
+          "delta": 0.07459801068229367,
+          "gamma": 0.0612547320696066
+        },
+        "session_time": 424,
+        "quality": 91.79334014993626,
+        "timestamp": "2025-06-05T10:02:36.162218"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:02:38.165035",
+      "session_time": 426,
+      "metrics": {
+        "attention": 86.5,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.37966167137877915,
+          "theta": 0.24254428707959352,
+          "beta": 0.2283371113681308,
+          "delta": 0.08795712842153679,
+          "gamma": 0.06149980175195984
+        },
+        "session_time": 426,
+        "quality": 93.10706406387074,
+        "timestamp": "2025-06-05T10:02:38.165035"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:02:40.178346",
+      "session_time": 428,
+      "metrics": {
+        "attention": 85.9,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.34879065344561544,
+          "theta": 0.26177700949694527,
+          "beta": 0.24676724172496525,
+          "delta": 0.08177482542704723,
+          "gamma": 0.0608902699054267
+        },
+        "session_time": 428,
+        "quality": 92.43062782380346,
+        "timestamp": "2025-06-05T10:02:40.178346"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:02:42.189417",
+      "session_time": 430,
+      "metrics": {
+        "attention": 84.8,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3524146463774584,
+          "theta": 0.2576918844510736,
+          "beta": 0.21314659067139655,
+          "delta": 0.1158393562692396,
+          "gamma": 0.060907522230831845
+        },
+        "session_time": 430,
+        "quality": 97.42524638595921,
+        "timestamp": "2025-06-05T10:02:42.189417"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:02:44.194930",
+      "session_time": 432,
+      "metrics": {
+        "attention": 90.6,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.34552121984478296,
+          "theta": 0.2356596222808495,
+          "beta": 0.26044568336445323,
+          "delta": 0.08354359892557316,
+          "gamma": 0.07482987558434114
+        },
+        "session_time": 432,
+        "quality": 91.33856960674203,
+        "timestamp": "2025-06-05T10:02:44.194930"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:02:46.206889",
+      "session_time": 434,
+      "metrics": {
+        "attention": 86.8,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.33793078075848687,
+          "theta": 0.2631724363624864,
+          "beta": 0.23857075435957215,
+          "delta": 0.10198576200791837,
+          "gamma": 0.05834026651153627
+        },
+        "session_time": 434,
+        "quality": 93.71764759691565,
+        "timestamp": "2025-06-05T10:02:46.206889"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:02:48.219924",
+      "session_time": 436,
+      "metrics": {
+        "attention": 88.3,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3529568495478501,
+          "theta": 0.2666194497234187,
+          "beta": 0.24890337037777502,
+          "delta": 0.07300233058809674,
+          "gamma": 0.058517999762859374
+        },
+        "session_time": 436,
+        "quality": 94.0612298357291,
+        "timestamp": "2025-06-05T10:02:48.219924"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:02:50.234291",
+      "session_time": 438,
+      "metrics": {
+        "attention": 88.8,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3329687313476203,
+          "theta": 0.26791203039486666,
+          "beta": 0.23702324736723718,
+          "delta": 0.09726212842295227,
+          "gamma": 0.06483386246732373
+        },
+        "session_time": 438,
+        "quality": 88.69404823247828,
+        "timestamp": "2025-06-05T10:02:50.234291"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:02:52.241962",
+      "session_time": 440,
+      "metrics": {
+        "attention": 91.7,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.35985134378880673,
+          "theta": 0.24388579538653446,
+          "beta": 0.2626965772369356,
+          "delta": 0.06843663415775167,
+          "gamma": 0.06512964942997171
+        },
+        "session_time": 440,
+        "quality": 92.3714550697237,
+        "timestamp": "2025-06-05T10:02:52.241962"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:02:54.256802",
+      "session_time": 442,
+      "metrics": {
+        "attention": 94.2,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.36380333669726983,
+          "theta": 0.26486176772578846,
+          "beta": 0.21812530422950738,
+          "delta": 0.0856784858164395,
+          "gamma": 0.06753110553099483
+        },
+        "session_time": 442,
+        "quality": 97.12730576999652,
+        "timestamp": "2025-06-05T10:02:54.256802"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:02:56.258994",
+      "session_time": 444,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3777478687270306,
+          "theta": 0.26587630181514604,
+          "beta": 0.22340009514829862,
+          "delta": 0.0717564031617713,
+          "gamma": 0.061219331147753485
+        },
+        "session_time": 444,
+        "quality": 93.9312106285435,
+        "timestamp": "2025-06-05T10:02:56.258994"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:02:58.274067",
+      "session_time": 446,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3389451931546907,
+          "theta": 0.2658794427884588,
+          "beta": 0.26869800660119997,
+          "delta": 0.06204212912812176,
+          "gamma": 0.06443522832752882
+        },
+        "session_time": 446,
+        "quality": 94.85775366406773,
+        "timestamp": "2025-06-05T10:02:58.274067"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:03:00.286921",
+      "session_time": 448,
+      "metrics": {
+        "attention": 95.0,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.34148032437332715,
+          "theta": 0.26273403785661686,
+          "beta": 0.24547442642824296,
+          "delta": 0.09941738585868348,
+          "gamma": 0.05089382548312962
+        },
+        "session_time": 448,
+        "quality": 95.54020445705328,
+        "timestamp": "2025-06-05T10:03:00.286921"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:03:02.294076",
+      "session_time": 450,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3157791120236639,
+          "theta": 0.24060969107935654,
+          "beta": 0.26576505762637764,
+          "delta": 0.11435326216106668,
+          "gamma": 0.06349287710953502
+        },
+        "session_time": 450,
+        "quality": 89.61691813496421,
+        "timestamp": "2025-06-05T10:03:02.294076"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:03:04.299821",
+      "session_time": 452,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.38281764706106125,
+          "theta": 0.2198557477777667,
+          "beta": 0.26061853766154,
+          "delta": 0.0704187925240803,
+          "gamma": 0.06628927497555169
+        },
+        "session_time": 452,
+        "quality": 88.03613119089648,
+        "timestamp": "2025-06-05T10:03:04.299821"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:03:06.312555",
+      "session_time": 454,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3532211834522405,
+          "theta": 0.24254642779951263,
+          "beta": 0.26946834201088343,
+          "delta": 0.0824251259218913,
+          "gamma": 0.052338920815472145
+        },
+        "session_time": 454,
+        "quality": 89.87812513085646,
+        "timestamp": "2025-06-05T10:03:06.312555"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:03:08.317013",
+      "session_time": 456,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3655716545497083,
+          "theta": 0.2357392243005879,
+          "beta": 0.27086785059966006,
+          "delta": 0.08065986790931964,
+          "gamma": 0.047161402640724104
+        },
+        "session_time": 456,
+        "quality": 94.5257009462295,
+        "timestamp": "2025-06-05T10:03:08.317013"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:03:10.332791",
+      "session_time": 458,
+      "metrics": {
+        "attention": 93.7,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.37309777796532434,
+          "theta": 0.26134432476856495,
+          "beta": 0.23273799612334037,
+          "delta": 0.07411042501027605,
+          "gamma": 0.05870947613249437
+        },
+        "session_time": 458,
+        "quality": 97.36673899316257,
+        "timestamp": "2025-06-05T10:03:10.332791"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:03:12.342214",
+      "session_time": 460,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.37219652499804357,
+          "theta": 0.25240277356195745,
+          "beta": 0.22167274021655076,
+          "delta": 0.09554124650384278,
+          "gamma": 0.05818671471960549
+        },
+        "session_time": 460,
+        "quality": 95.9065394938764,
+        "timestamp": "2025-06-05T10:03:12.342214"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:03:14.357524",
+      "session_time": 462,
+      "metrics": {
+        "attention": 94.1,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.31164331748677476,
+          "theta": 0.26746491441874926,
+          "beta": 0.23669758047543948,
+          "delta": 0.12632133916500288,
+          "gamma": 0.05787284845403372
+        },
+        "session_time": 462,
+        "quality": 94.06299369127049,
+        "timestamp": "2025-06-05T10:03:14.357524"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:03:16.371263",
+      "session_time": 464,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3267930510347237,
+          "theta": 0.2684273544753464,
+          "beta": 0.2574037111340139,
+          "delta": 0.08173933504976744,
+          "gamma": 0.06563654830614855
+        },
+        "session_time": 464,
+        "quality": 93.3325012610114,
+        "timestamp": "2025-06-05T10:03:16.370707"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:03:18.387854",
+      "session_time": 466,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3852957832431636,
+          "theta": 0.26495054609948077,
+          "beta": 0.22296544474750285,
+          "delta": 0.075154985066363,
+          "gamma": 0.05163324084348976
+        },
+        "session_time": 466,
+        "quality": 92.40004328695815,
+        "timestamp": "2025-06-05T10:03:18.387854"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:03:20.388959",
+      "session_time": 468,
+      "metrics": {
+        "attention": 93.8,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3449747423292255,
+          "theta": 0.250895375012126,
+          "beta": 0.25888913409807696,
+          "delta": 0.08525692606312457,
+          "gamma": 0.059983822497447166
+        },
+        "session_time": 468,
+        "quality": 94.67822732348911,
+        "timestamp": "2025-06-05T10:03:20.388959"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:03:22.403434",
+      "session_time": 470,
+      "metrics": {
+        "attention": 93.5,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3648042538174945,
+          "theta": 0.255805961138037,
+          "beta": 0.23614305520393347,
+          "delta": 0.07701213221920432,
+          "gamma": 0.0662345976213307
+        },
+        "session_time": 470,
+        "quality": 93.50073733200328,
+        "timestamp": "2025-06-05T10:03:22.403434"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:03:24.406754",
+      "session_time": 472,
+      "metrics": {
+        "attention": 90.8,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3775046302225668,
+          "theta": 0.24171510475547164,
+          "beta": 0.24148531731425413,
+          "delta": 0.08409525465635365,
+          "gamma": 0.05519969305135377
+        },
+        "session_time": 472,
+        "quality": 89.78058998312032,
+        "timestamp": "2025-06-05T10:03:24.406754"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:03:26.413446",
+      "session_time": 474,
+      "metrics": {
+        "attention": 91.9,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.385941987770309,
+          "theta": 0.25289640824081366,
+          "beta": 0.22935110276230117,
+          "delta": 0.07539612731911814,
+          "gamma": 0.05641437390745801
+        },
+        "session_time": 474,
+        "quality": 96.02648050401768,
+        "timestamp": "2025-06-05T10:03:26.413446"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:03:28.427489",
+      "session_time": 476,
+      "metrics": {
+        "attention": 93.2,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.34872423871423214,
+          "theta": 0.2730154728603193,
+          "beta": 0.24840978617459256,
+          "delta": 0.06036996576034169,
+          "gamma": 0.06948053649051447
+        },
+        "session_time": 476,
+        "quality": 86.99735350303085,
+        "timestamp": "2025-06-05T10:03:28.427489"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:03:30.440285",
+      "session_time": 478,
+      "metrics": {
+        "attention": 85.1,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.33444504178165074,
+          "theta": 0.26097107230078304,
+          "beta": 0.2528986360417246,
+          "delta": 0.09691673925050431,
+          "gamma": 0.05476851062533741
+        },
+        "session_time": 478,
+        "quality": 88.71854167489849,
+        "timestamp": "2025-06-05T10:03:30.440285"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:03:32.453238",
+      "session_time": 480,
+      "metrics": {
+        "attention": 87.7,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.35819761208845285,
+          "theta": 0.2746742402620533,
+          "beta": 0.24200012343404967,
+          "delta": 0.06110724674790367,
+          "gamma": 0.06402077746754052
+        },
+        "session_time": 480,
+        "quality": 90.70378235531801,
+        "timestamp": "2025-06-05T10:03:32.453238"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:03:34.454605",
+      "session_time": 482,
+      "metrics": {
+        "attention": 89.9,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.35176523824547573,
+          "theta": 0.27258574562564225,
+          "beta": 0.246227388747483,
+          "delta": 0.07598175030265497,
+          "gamma": 0.05343987707874394
+        },
+        "session_time": 482,
+        "quality": 95.3595173449088,
+        "timestamp": "2025-06-05T10:03:34.454605"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:03:36.456338",
+      "session_time": 484,
+      "metrics": {
+        "attention": 88.6,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.37268379076168096,
+          "theta": 0.2564055823097664,
+          "beta": 0.2274198765857746,
+          "delta": 0.0965309557981268,
+          "gamma": 0.04695979454465128
+        },
+        "session_time": 484,
+        "quality": 84.50262109113808,
+        "timestamp": "2025-06-05T10:03:36.456338"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:03:38.447839",
+      "session_time": 486,
+      "metrics": {
+        "attention": 87.4,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.35371471806923727,
+          "theta": 0.26722045048808674,
+          "beta": 0.2328607787987277,
+          "delta": 0.09814133629094887,
+          "gamma": 0.04806271635299929
+        },
+        "session_time": 486,
+        "quality": 98.77774847459166,
+        "timestamp": "2025-06-05T10:03:38.447839"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:03:40.462964",
+      "session_time": 488,
+      "metrics": {
+        "attention": 87.4,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.37253144571463237,
+          "theta": 0.2537254503729005,
+          "beta": 0.2180315691379349,
+          "delta": 0.0871756817038483,
+          "gamma": 0.06853585307068379
+        },
+        "session_time": 488,
+        "quality": 89.36164248783501,
+        "timestamp": "2025-06-05T10:03:40.462964"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:03:42.463733",
+      "session_time": 490,
+      "metrics": {
+        "attention": 86.9,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.31226902324261296,
+          "theta": 0.2631921878296286,
+          "beta": 0.24846113917455034,
+          "delta": 0.11030497849297816,
+          "gamma": 0.06577267126022984
+        },
+        "session_time": 490,
+        "quality": 94.66690303830423,
+        "timestamp": "2025-06-05T10:03:42.463733"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:03:44.471764",
+      "session_time": 492,
+      "metrics": {
+        "attention": 85.5,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.35997187085096494,
+          "theta": 0.24937118853667695,
+          "beta": 0.23950145549298846,
+          "delta": 0.10325584465288778,
+          "gamma": 0.04789964046648189
+        },
+        "session_time": 492,
+        "quality": 92.40340081559233,
+        "timestamp": "2025-06-05T10:03:44.471764"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:03:46.478364",
+      "session_time": 494,
+      "metrics": {
+        "attention": 86.2,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.376703611929978,
+          "theta": 0.24279227148941715,
+          "beta": 0.24175022080182654,
+          "delta": 0.07585305018825513,
+          "gamma": 0.06290084559052316
+        },
+        "session_time": 494,
+        "quality": 97.05392509052523,
+        "timestamp": "2025-06-05T10:03:46.478364"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:03:48.478789",
+      "session_time": 496,
+      "metrics": {
+        "attention": 88.4,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3946238415061307,
+          "theta": 0.26330214132101126,
+          "beta": 0.24036920432191014,
+          "delta": 0.05729493117885112,
+          "gamma": 0.04440988167209657
+        },
+        "session_time": 496,
+        "quality": 94.80460851164543,
+        "timestamp": "2025-06-05T10:03:48.478789"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:03:50.480972",
+      "session_time": 498,
+      "metrics": {
+        "attention": 87.5,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.37364208185065534,
+          "theta": 0.23056485286170336,
+          "beta": 0.24474928205573776,
+          "delta": 0.08285969271278554,
+          "gamma": 0.06818409051911804
+        },
+        "session_time": 498,
+        "quality": 88.10322304302125,
+        "timestamp": "2025-06-05T10:03:50.480972"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:03:52.483606",
+      "session_time": 500,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.39895507212491643,
+          "theta": 0.2336777673553064,
+          "beta": 0.24205504316325654,
+          "delta": 0.07168142703498097,
+          "gamma": 0.05363069032153964
+        },
+        "session_time": 500,
+        "quality": 93.85060208501316,
+        "timestamp": "2025-06-05T10:03:52.483606"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:03:54.495682",
+      "session_time": 502,
+      "metrics": {
+        "attention": 90.8,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3543780922421983,
+          "theta": 0.25693472358503294,
+          "beta": 0.2503809541509131,
+          "delta": 0.08340674333508935,
+          "gamma": 0.05489948668676645
+        },
+        "session_time": 502,
+        "quality": 92.14280616909775,
+        "timestamp": "2025-06-05T10:03:54.495682"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:03:56.497366",
+      "session_time": 504,
+      "metrics": {
+        "attention": 94.5,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3706778942567962,
+          "theta": 0.25074556935483766,
+          "beta": 0.2310873771756063,
+          "delta": 0.1081460423842297,
+          "gamma": 0.039343116828530166
+        },
+        "session_time": 504,
+        "quality": 87.10859420437322,
+        "timestamp": "2025-06-05T10:03:56.497366"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:03:58.502378",
+      "session_time": 506,
+      "metrics": {
+        "attention": 93.8,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.3493095171429928,
+          "theta": 0.21802450568369763,
+          "beta": 0.2811062201132409,
+          "delta": 0.0877428409249817,
+          "gamma": 0.06381691613508692
+        },
+        "session_time": 506,
+        "quality": 92.71984312715651,
+        "timestamp": "2025-06-05T10:03:58.502378"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:04:00.507356",
+      "session_time": 508,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.35561338546658444,
+          "theta": 0.2393350272900355,
+          "beta": 0.24014370112024308,
+          "delta": 0.10359123040408398,
+          "gamma": 0.061316655719053
+        },
+        "session_time": 508,
+        "quality": 92.7225862841817,
+        "timestamp": "2025-06-05T10:04:00.507356"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T10:04:02.522993",
+      "session_time": 510,
+      "metrics": {
+        "attention": 95,
+        "meditation": 98,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+        "band_powers": {
+          "alpha": 0.34102057479566134,
+          "theta": 0.2711095364542486,
+          "beta": 0.24737835496926233,
+          "delta": 0.07300111414354335,
+          "gamma": 0.06749041963728443
+        },
+        "session_time": 510,
+        "quality": 92.36144891237689,
+        "timestamp": "2025-06-05T10:04:02.522993"
+      }
+    }
+  ]
+}

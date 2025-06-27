@@ -1,0 +1,145 @@
+{
+  "greg_profile": {
+    "age": 58,
+    "location": "Canada",
+    "baseline_attention": 65,
+    "baseline_meditation": 70,
+    "canadian_advantage": 8,
+    "experience_bonus": 12
+  },
+  "session_summary": {
+    "total_duration": 12,
+    "data_points": 6,
+    "avg_attention": 77.08333333333334,
+    "avg_meditation": 80.23333333333333,
+    "peak_coherence": 0.999
+  },
+  "session_data": [
+    {
+      "timestamp": "2025-06-05T09:57:05.890832",
+      "session_time": 0,
+      "metrics": {
+        "attention": 71.7,
+        "meditation": 76.5,
+        "stress_index": 5,
+        "coherence": 0.967,
+        "dna_communication_quality": "GOOD - DNA responding to consciousness",
+        "band_powers": {
+          "alpha": 0.3407842236555368,
+          "theta": 0.2429383866942348,
+          "beta": 0.2365042444348742,
+          "delta": 0.10697821743035067,
+          "gamma": 0.07279492778500356
+        },
+        "session_time": 0,
+        "quality": 94.32284995533654,
+        "timestamp": "2025-06-05T09:57:05.890832"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:57:07.904763",
+      "session_time": 2,
+      "metrics": {
+        "attention": 74.7,
+        "meditation": 79.3,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "VERY GOOD - Strong consciousness-DNA connection",
+        "band_powers": {
+          "alpha": 0.31589496711679127,
+          "theta": 0.2724043000923087,
+          "beta": 0.2640003193739917,
+          "delta": 0.08046886713411545,
+          "gamma": 0.0672315462827929
+        },
+        "session_time": 2,
+        "quality": 90.44062085156364,
+        "timestamp": "2025-06-05T09:57:07.904763"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:57:09.909876",
+      "session_time": 4,
+      "metrics": {
+        "attention": 77.9,
+        "meditation": 79.8,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "VERY GOOD - Strong consciousness-DNA connection",
+        "band_powers": {
+          "alpha": 0.35644481008118045,
+          "theta": 0.2459707438582344,
+          "beta": 0.2306859456309534,
+          "delta": 0.08583855655985073,
+          "gamma": 0.08105994386978102
+        },
+        "session_time": 4,
+        "quality": 94.8498858326827,
+        "timestamp": "2025-06-05T09:57:09.909876"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:57:11.922724",
+      "session_time": 6,
+      "metrics": {
+        "attention": 82.3,
+        "meditation": 81.9,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "VERY GOOD - Strong consciousness-DNA connection",
+        "band_powers": {
+          "alpha": 0.3457969016148435,
+          "theta": 0.2390273859968428,
+          "beta": 0.275541445499104,
+          "delta": 0.09217811956708563,
+          "gamma": 0.04745614732212407
+        },
+        "session_time": 6,
+        "quality": 92.23447293642128,
+        "timestamp": "2025-06-05T09:57:11.922724"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:57:13.924831",
+      "session_time": 8,
+      "metrics": {
+        "attention": 76.1,
+        "meditation": 82.5,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "VERY GOOD - Strong consciousness-DNA connection",
+        "band_powers": {
+          "alpha": 0.3684687499470831,
+          "theta": 0.22848406811189215,
+          "beta": 0.23326185680977715,
+          "delta": 0.09606259133631002,
+          "gamma": 0.07372273379493767
+        },
+        "session_time": 8,
+        "quality": 93.88350961627408,
+        "timestamp": "2025-06-05T09:57:13.924831"
+      }
+    },
+    {
+      "timestamp": "2025-06-05T09:57:15.938026",
+      "session_time": 10,
+      "metrics": {
+        "attention": 79.8,
+        "meditation": 81.4,
+        "stress_index": 5,
+        "coherence": 0.999,
+        "dna_communication_quality": "VERY GOOD - Strong consciousness-DNA connection",
+        "band_powers": {
+          "alpha": 0.3505118336172111,
+          "theta": 0.27815551366707675,
+          "beta": 0.20910136680007202,
+          "delta": 0.10157871298855561,
+          "gamma": 0.06065257292708431
+        },
+        "session_time": 10,
+        "quality": 96.28037023394256,
+        "timestamp": "2025-06-05T09:57:15.938026"
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "session_id": "20250605_102546",
+  "end_time": "2025-06-05T10:25:46.314924",
+  "total_readings": 2,
+  "avg_coherence": 0.967,
+  "peak_coherence": 0.978,
+  "avg_bio_resonance": 0.9315,
+  "avg_consciousness_level": 72.4,
+  "greg_advantages": {
+    "age_58_optimal": true,
+    "canadian_environment": true,
+    "consciousness_mastery": true
+  },
+  "session_data": [
+    {
+      "attention": 67.9,
+      "meditation": 78.5,
+      "consciousness_level": 73.2,
+      "coherence": 0.978,
+      "bio_resonance": 0.926,
+      "dimensional_access": "7D+ - Multidimensional Mastery",
+      "field_coherence": 0.999,
+      "phi_alignment": 1.582,
+      "quantum_field_strength": 0.75,
+      "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+      "band_powers": {
+        "alpha": 0.374,
+        "theta": 0.298,
+        "beta": 0.212,
+        "delta": 0.077,
+        "gamma": 0.039
+      },
+      "session_time": 0,
+      "stress_index": 5,
+      "canadian_advantage_active": true,
+      "age_58_wisdom_bonus": 0.0,
+      "consciousness_mastery_level": 0.7
+    },
+    {
+      "attention": 69.8,
+      "meditation": 73.5,
+      "consciousness_level": 71.6,
+      "coherence": 0.956,
+      "bio_resonance": 0.937,
+      "dimensional_access": "5D - Higher Dimensional",
+      "field_coherence": 0.941,
+      "phi_alignment": 1.547,
+      "quantum_field_strength": 0.79,
+      "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+      "band_powers": {
+        "alpha": 0.369,
+        "theta": 0.278,
+        "beta": 0.225,
+        "delta": 0.095,
+        "gamma": 0.033
+      },
+      "session_time": 2,
+      "stress_index": 5,
+      "canadian_advantage_active": true,
+      "age_58_wisdom_bonus": 0.02,
+      "consciousness_mastery_level": 0.71
+    }
+  ]
+}

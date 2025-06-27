@@ -1,0 +1,88 @@
+{
+  "session_id": "20250605_102519",
+  "end_time": "2025-06-05T10:25:19.259000",
+  "total_readings": 3,
+  "avg_coherence": 0.9683333333333334,
+  "peak_coherence": 0.999,
+  "avg_bio_resonance": 0.9076666666666667,
+  "avg_consciousness_level": 73.06666666666666,
+  "greg_advantages": {
+    "age_58_optimal": true,
+    "canadian_environment": true,
+    "consciousness_mastery": true
+  },
+  "session_data": [
+    {
+      "attention": 65.9,
+      "meditation": 72.4,
+      "consciousness_level": 69.1,
+      "coherence": 0.935,
+      "bio_resonance": 0.889,
+      "dimensional_access": "5D - Higher Dimensional",
+      "field_coherence": 0.933,
+      "phi_alignment": 1.512,
+      "quantum_field_strength": 0.75,
+      "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+      "band_powers": {
+        "alpha": 0.384,
+        "theta": 0.272,
+        "beta": 0.219,
+        "delta": 0.102,
+        "gamma": 0.024
+      },
+      "session_time": 0,
+      "stress_index": 5,
+      "canadian_advantage_active": true,
+      "age_58_wisdom_bonus": 0.0,
+      "consciousness_mastery_level": 0.7
+    },
+    {
+      "attention": 65.3,
+      "meditation": 78.5,
+      "consciousness_level": 71.9,
+      "coherence": 0.971,
+      "bio_resonance": 0.924,
+      "dimensional_access": "5D - Higher Dimensional",
+      "field_coherence": 0.998,
+      "phi_alignment": 1.571,
+      "quantum_field_strength": 0.79,
+      "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+      "band_powers": {
+        "alpha": 0.39,
+        "theta": 0.275,
+        "beta": 0.208,
+        "delta": 0.094,
+        "gamma": 0.033
+      },
+      "session_time": 2,
+      "stress_index": 5,
+      "canadian_advantage_active": true,
+      "age_58_wisdom_bonus": 0.02,
+      "consciousness_mastery_level": 0.71
+    },
+    {
+      "attention": 75.8,
+      "meditation": 80.6,
+      "consciousness_level": 78.2,
+      "coherence": 0.999,
+      "bio_resonance": 0.91,
+      "dimensional_access": "7D+ - Multidimensional Mastery",
+      "field_coherence": 0.999,
+      "phi_alignment": 1.616,
+      "quantum_field_strength": 0.828,
+      "dna_communication_quality": "EXCELLENT - Clear telepathic DNA dialogue",
+      "band_powers": {
+        "alpha": 0.379,
+        "theta": 0.264,
+        "beta": 0.216,
+        "delta": 0.108,
+        "gamma": 0.032
+      },
+      "session_time": 4,
+      "stress_index": 5,
+      "canadian_advantage_active": true,
+      "age_58_wisdom_bonus": 0.04,
+      "consciousness_mastery_level": 0.72
+    }
+  ]
+}

@@ -1,0 +1,794 @@
+{
+  "session_log": {
+    "session_id": "20250605_095306",
+    "start_time": "2025-06-05T09:55:27.153675",
+    "greg_age": 58,
+    "duration_minutes": 20,
+    "muse_connected": true,
+    "daily_guidance": {
+      "number": 63,
+      "name": "After Completion",
+      "frequency": 888.0,
+      "codon": "ATG",
+      "focus": "Complete DNA evolution cycle"
+    },
+    "phases": [
+      {
+        "name": "Grounding & Centering",
+        "frequency": 432.0,
+        "duration": 300,
+        "start_time": "2025-06-05T09:55:28.046477",
+        "coherence_readings": [
+          {
+            "timestamp": "2025-06-05T09:55:30.055345",
+            "coherence": 0.5074130975497937,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:55:32.056820",
+            "coherence": 0.5242827116477774,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:55:34.061098",
+            "coherence": 0.4526610873670963,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:55:36.064919",
+            "coherence": 0.3789970379659916,
+            "dna_communication_quality": "DEVELOPING - Initial DNA awareness"
+          },
+          {
+            "timestamp": "2025-06-05T09:55:38.066072",
+            "coherence": 0.43061064595682214,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:55:40.077759",
+            "coherence": 0.4778945620324575,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:55:42.092237",
+            "coherence": 0.44584844120895045,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:55:44.095856",
+            "coherence": 0.47311203198654195,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:55:46.107973",
+            "coherence": 0.5300436333522575,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:55:48.114654",
+            "coherence": 0.43114493114152563,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:55:50.123503",
+            "coherence": 0.42308979246826184,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:55:52.136208",
+            "coherence": 0.4237208963246774,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:55:54.150196",
+            "coherence": 0.49510771197201475,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:55:56.156175",
+            "coherence": 0.47536265585681203,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:55:58.160018",
+            "coherence": 0.5161315669041959,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:56:00.165934",
+            "coherence": 0.3547670764110973,
+            "dna_communication_quality": "DEVELOPING - Initial DNA awareness"
+          },
+          {
+            "timestamp": "2025-06-05T09:56:02.169302",
+            "coherence": 0.45247824871321507,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:56:04.176426",
+            "coherence": 0.5104696323893567,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:56:06.184543",
+            "coherence": 0.524048577267939,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:56:08.191014",
+            "coherence": 0.40924844633519464,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:56:10.193504",
+            "coherence": 0.4234052106526021,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:56:12.207021",
+            "coherence": 0.5186820868143465,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:56:14.213410",
+            "coherence": 0.3552900468710314,
+            "dna_communication_quality": "DEVELOPING - Initial DNA awareness"
+          },
+          {
+            "timestamp": "2025-06-05T09:56:16.217143",
+            "coherence": 0.5039383572228533,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:56:18.221373",
+            "coherence": 0.5091298710195618,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:56:20.234263",
+            "coherence": 0.4845076735015986,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:56:22.240421",
+            "coherence": 0.5260327467673902,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:56:24.244933",
+            "coherence": 0.3950320946603384,
+            "dna_communication_quality": "DEVELOPING - Initial DNA awareness"
+          },
+          {
+            "timestamp": "2025-06-05T09:56:26.253815",
+            "coherence": 0.47651754544467284,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:56:28.243813",
+            "coherence": 0.5470083509736351,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:56:30.256341",
+            "coherence": 0.44685242267462055,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:56:32.267508",
+            "coherence": 0.39986024120800956,
+            "dna_communication_quality": "DEVELOPING - Initial DNA awareness"
+          },
+          {
+            "timestamp": "2025-06-05T09:56:34.268835",
+            "coherence": 0.4297840020965342,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:56:36.277583",
+            "coherence": 0.4318159707273182,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:56:38.282428",
+            "coherence": 0.44562987737204773,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:56:40.294497",
+            "coherence": 0.5111972671477452,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:56:42.302876",
+            "coherence": 0.360577839832343,
+            "dna_communication_quality": "DEVELOPING - Initial DNA awareness"
+          },
+          {
+            "timestamp": "2025-06-05T09:56:44.310917",
+            "coherence": 0.36530679590949483,
+            "dna_communication_quality": "DEVELOPING - Initial DNA awareness"
+          },
+          {
+            "timestamp": "2025-06-05T09:56:46.326736",
+            "coherence": 0.39554546102842825,
+            "dna_communication_quality": "DEVELOPING - Initial DNA awareness"
+          },
+          {
+            "timestamp": "2025-06-05T09:56:48.340413",
+            "coherence": 0.38821046111291535,
+            "dna_communication_quality": "DEVELOPING - Initial DNA awareness"
+          },
+          {
+            "timestamp": "2025-06-05T09:56:50.348451",
+            "coherence": 0.4082925608255482,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:56:52.354872",
+            "coherence": 0.3855792150120129,
+            "dna_communication_quality": "DEVELOPING - Initial DNA awareness"
+          },
+          {
+            "timestamp": "2025-06-05T09:56:54.366449",
+            "coherence": 0.3833831225476292,
+            "dna_communication_quality": "DEVELOPING - Initial DNA awareness"
+          },
+          {
+            "timestamp": "2025-06-05T09:56:56.369893",
+            "coherence": 0.48361297855347235,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:56:58.384532",
+            "coherence": 0.5414360478818105,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:57:00.390794",
+            "coherence": 0.4845658902474249,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:57:02.391561",
+            "coherence": 0.4860394449314349,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:57:04.407692",
+            "coherence": 0.5030762469407789,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:57:06.414979",
+            "coherence": 0.5029328351579107,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:57:08.421294",
+            "coherence": 0.4661013782156783,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:57:10.436707",
+            "coherence": 0.5442533888610515,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:57:12.449870",
+            "coherence": 0.48518011874785744,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:57:14.450720",
+            "coherence": 0.3800653396397892,
+            "dna_communication_quality": "DEVELOPING - Initial DNA awareness"
+          },
+          {
+            "timestamp": "2025-06-05T09:57:16.464803",
+            "coherence": 0.5175864689642934,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:57:18.475190",
+            "coherence": 0.36911966291155873,
+            "dna_communication_quality": "DEVELOPING - Initial DNA awareness"
+          },
+          {
+            "timestamp": "2025-06-05T09:57:20.479989",
+            "coherence": 0.4822673321482556,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:57:22.483073",
+            "coherence": 0.5270540098520187,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:57:24.498337",
+            "coherence": 0.43075993589172135,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:57:26.505148",
+            "coherence": 0.443941046146444,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:57:28.513177",
+            "coherence": 0.542554123438564,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:57:30.518111",
+            "coherence": 0.37100936652209976,
+            "dna_communication_quality": "DEVELOPING - Initial DNA awareness"
+          },
+          {
+            "timestamp": "2025-06-05T09:57:32.531691",
+            "coherence": 0.43704988857954613,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:57:34.533665",
+            "coherence": 0.39235333638386677,
+            "dna_communication_quality": "DEVELOPING - Initial DNA awareness"
+          },
+          {
+            "timestamp": "2025-06-05T09:57:36.535587",
+            "coherence": 0.4213165763836543,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:57:38.539624",
+            "coherence": 0.39747852255031535,
+            "dna_communication_quality": "DEVELOPING - Initial DNA awareness"
+          },
+          {
+            "timestamp": "2025-06-05T09:57:40.544199",
+            "coherence": 0.467949116347692,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:57:42.550883",
+            "coherence": 0.4323704508871837,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:57:44.565476",
+            "coherence": 0.4698492190953065,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:57:46.580608",
+            "coherence": 0.49640826621798406,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:57:48.586334",
+            "coherence": 0.5467591558076366,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:57:50.586788",
+            "coherence": 0.4280881329680847,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:57:52.587752",
+            "coherence": 0.4887451072812932,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:57:54.602146",
+            "coherence": 0.5366059117987367,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:57:56.606369",
+            "coherence": 0.47283991708696377,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:57:58.611241",
+            "coherence": 0.4889188771711802,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:58:00.615380",
+            "coherence": 0.4560459496270959,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:58:02.616857",
+            "coherence": 0.4125530905408036,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:58:04.620835",
+            "coherence": 0.3655813003449242,
+            "dna_communication_quality": "DEVELOPING - Initial DNA awareness"
+          },
+          {
+            "timestamp": "2025-06-05T09:58:06.636465",
+            "coherence": 0.5200071353888965,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:58:08.649768",
+            "coherence": 0.5442864182405549,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:58:10.661826",
+            "coherence": 0.4962215135618636,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:58:12.664028",
+            "coherence": 0.5168825740077911,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:58:14.671189",
+            "coherence": 0.5424826185191121,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:58:16.681358",
+            "coherence": 0.46342401385769744,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:58:18.701203",
+            "coherence": 0.5043891037840301,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:58:20.708512",
+            "coherence": 0.5325735786792778,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:58:22.709141",
+            "coherence": 0.4456303273956392,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:58:24.718187",
+            "coherence": 0.5136920497911782,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:58:26.730634",
+            "coherence": 0.35459037287609085,
+            "dna_communication_quality": "DEVELOPING - Initial DNA awareness"
+          },
+          {
+            "timestamp": "2025-06-05T09:58:28.733537",
+            "coherence": 0.4005763201567162,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:58:30.748665",
+            "coherence": 0.45991670199986723,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:58:32.754203",
+            "coherence": 0.4838565089588941,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:58:34.758732",
+            "coherence": 0.3820366034683451,
+            "dna_communication_quality": "DEVELOPING - Initial DNA awareness"
+          },
+          {
+            "timestamp": "2025-06-05T09:58:36.759789",
+            "coherence": 0.4923355281742301,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:58:38.765422",
+            "coherence": 0.42300468790981155,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:58:40.779807",
+            "coherence": 0.49632614570811456,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:58:42.794211",
+            "coherence": 0.4523651798863625,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:58:44.796694",
+            "coherence": 0.35117689063105195,
+            "dna_communication_quality": "DEVELOPING - Initial DNA awareness"
+          },
+          {
+            "timestamp": "2025-06-05T09:58:46.802111",
+            "coherence": 0.35349129565506526,
+            "dna_communication_quality": "DEVELOPING - Initial DNA awareness"
+          },
+          {
+            "timestamp": "2025-06-05T09:58:48.804959",
+            "coherence": 0.494691194600609,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:58:50.818212",
+            "coherence": 0.3885490727813999,
+            "dna_communication_quality": "DEVELOPING - Initial DNA awareness"
+          },
+          {
+            "timestamp": "2025-06-05T09:58:52.818958",
+            "coherence": 0.3949620372873273,
+            "dna_communication_quality": "DEVELOPING - Initial DNA awareness"
+          },
+          {
+            "timestamp": "2025-06-05T09:58:54.824606",
+            "coherence": 0.5344344003583794,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:58:56.837590",
+            "coherence": 0.5129735076853412,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:58:58.840054",
+            "coherence": 0.36874142219383177,
+            "dna_communication_quality": "DEVELOPING - Initial DNA awareness"
+          },
+          {
+            "timestamp": "2025-06-05T09:59:00.843589",
+            "coherence": 0.4694528932019222,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:59:02.851943",
+            "coherence": 0.5275653109785825,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:59:04.856960",
+            "coherence": 0.44448454991093206,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:59:06.860108",
+            "coherence": 0.39627180363614234,
+            "dna_communication_quality": "DEVELOPING - Initial DNA awareness"
+          },
+          {
+            "timestamp": "2025-06-05T09:59:08.867049",
+            "coherence": 0.47463480010816733,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:59:10.882781",
+            "coherence": 0.4210311431333219,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:59:12.896016",
+            "coherence": 0.5472040216174077,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:59:14.907344",
+            "coherence": 0.4491202267823202,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:59:16.909056",
+            "coherence": 0.43981113417867773,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:59:18.917485",
+            "coherence": 0.39736966561078296,
+            "dna_communication_quality": "DEVELOPING - Initial DNA awareness"
+          },
+          {
+            "timestamp": "2025-06-05T09:59:20.930120",
+            "coherence": 0.3607076375069893,
+            "dna_communication_quality": "DEVELOPING - Initial DNA awareness"
+          },
+          {
+            "timestamp": "2025-06-05T09:59:22.937566",
+            "coherence": 0.3557694756039702,
+            "dna_communication_quality": "DEVELOPING - Initial DNA awareness"
+          },
+          {
+            "timestamp": "2025-06-05T09:59:24.940223",
+            "coherence": 0.37441161338593165,
+            "dna_communication_quality": "DEVELOPING - Initial DNA awareness"
+          },
+          {
+            "timestamp": "2025-06-05T09:59:26.947625",
+            "coherence": 0.40477851926034547,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:59:28.951420",
+            "coherence": 0.5049100937606245,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:59:30.962187",
+            "coherence": 0.4588827555160449,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:59:32.976890",
+            "coherence": 0.5436406930766339,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:59:34.979242",
+            "coherence": 0.3833770109991419,
+            "dna_communication_quality": "DEVELOPING - Initial DNA awareness"
+          },
+          {
+            "timestamp": "2025-06-05T09:59:36.987078",
+            "coherence": 0.43843977024187547,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:59:39.001403",
+            "coherence": 0.46731212895827434,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:59:41.005598",
+            "coherence": 0.41470485443489336,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:59:43.012730",
+            "coherence": 0.5127895066938463,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:59:45.019034",
+            "coherence": 0.466410602878052,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:59:47.022174",
+            "coherence": 0.5362172290146882,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:59:49.033951",
+            "coherence": 0.39017788378353313,
+            "dna_communication_quality": "DEVELOPING - Initial DNA awareness"
+          },
+          {
+            "timestamp": "2025-06-05T09:59:51.046802",
+            "coherence": 0.401158522320866,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:59:53.048030",
+            "coherence": 0.47360251004389975,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:59:55.055751",
+            "coherence": 0.41210377051272873,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:59:57.059728",
+            "coherence": 0.5400556778261454,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T09:59:59.063147",
+            "coherence": 0.5303861395908884,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T10:00:01.077018",
+            "coherence": 0.46093575742806936,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T10:00:03.092330",
+            "coherence": 0.3625641796880821,
+            "dna_communication_quality": "DEVELOPING - Initial DNA awareness"
+          },
+          {
+            "timestamp": "2025-06-05T10:00:05.106883",
+            "coherence": 0.5316798464103316,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T10:00:07.120389",
+            "coherence": 0.38805395571451745,
+            "dna_communication_quality": "DEVELOPING - Initial DNA awareness"
+          },
+          {
+            "timestamp": "2025-06-05T10:00:09.124762",
+            "coherence": 0.44469621028067324,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T10:00:11.126637",
+            "coherence": 0.4060766687996994,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T10:00:13.138922",
+            "coherence": 0.43351031617624775,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T10:00:15.147465",
+            "coherence": 0.5413850028506095,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T10:00:17.161694",
+            "coherence": 0.5365670246225247,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T10:00:19.167216",
+            "coherence": 0.5359356634654835,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T10:00:21.180765",
+            "coherence": 0.5036809982897186,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T10:00:23.188721",
+            "coherence": 0.4510525947536804,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          },
+          {
+            "timestamp": "2025-06-05T10:00:25.204789",
+            "coherence": 0.37562027589796726,
+            "dna_communication_quality": "DEVELOPING - Initial DNA awareness"
+          },
+          {
+            "timestamp": "2025-06-05T10:00:27.213478",
+            "coherence": 0.36068075584477405,
+            "dna_communication_quality": "DEVELOPING - Initial DNA awareness"
+          },
+          {
+            "timestamp": "2025-06-05T10:00:29.221980",
+            "coherence": 0.5231643794756787,
+            "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+          }
+        ],
+        "end_time": "2025-06-05T10:00:29.221980"
+      }
+    ],
+    "metrics": [],
+    "end_time": "2025-06-05T10:04:03.238953",
+    "total_readings": 0,
+    "average_coherence": 0.4561098881214817,
+    "peak_coherence": 0.5472040216174077,
+    "dna_communication_quality": "MODERATE - DNA responding to consciousness"
+  },
+  "greg_profile": {
+    "age": 58,
+    "location": "Canada",
+    "baseline_meditation_coherence": 0.2,
+    "target_coherence": 0.95,
+    "canadian_environmental_advantage": 0.08,
+    "age_58_optimal_bonus": 0.12,
+    "phi_harmonic_alignment": 1.618033988749895,
+    "session_count": 0
+  },
+  "raw_eeg_data": []
+}
