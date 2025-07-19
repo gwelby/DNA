@@ -1,0 +1,32 @@
+# ✅ Epoch Checklist Template
+# Tag each task with its frequency state
+# Example item:
+# - task: "Collect QRNG entropy"
+#   state: OBSERVE
+#   owner: Greg
+#   done: false
+
+- task: ""
+  state: OBSERVE
+  owner: ""
+  done: false
+- task: ""
+  state: CREATE
+  owner: ""
+  done: false
+- task: ""
+  state: INTEGRATE
+  owner: ""
+  done: false
+- task: ""
+  state: HARMONIZE
+  owner: ""
+  done: false
+- task: ""
+  state: TRANSCEND
+  owner: ""
+  done: false
+- task: ""
+  state: CASCADE
+  owner: ""
+  done: false
